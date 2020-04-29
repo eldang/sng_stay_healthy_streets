@@ -1,7 +1,15 @@
+DROP SCHEMA IF EXISTS sng CASCADE;
 CREATE SCHEMA IF NOT EXISTS sng;
 
 -- import streets data manually as sng.routes
--- suggested method: use QGIS to convert the kml to a sql file
+-- suggested method: use QGIS to convert the kml to a sql file, with only the name and description fields, geometries coerced to 2d linestrings, and no CREATE SCHEMA.  Then open that as text and manually find-and-replace "public" to "sng" with both single and double quotes.
+-- import as D1_street_segments, D2_street_segments, D3_street_segments, D456_street_segments, D7_street_segments
+
+
+
+
+-- create combo view
+
 
 
 

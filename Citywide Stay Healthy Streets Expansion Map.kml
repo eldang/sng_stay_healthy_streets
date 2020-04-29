@@ -1,0 +1,4334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Citywide Stay Healthy Streets Expansion Map</name>
+    <description/>
+    <Style id="icon-1541-BDBDBD-nodesc-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1541-BDBDBD-nodesc-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1541-BDBDBD-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-BDBDBD-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-BDBDBD-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-795548-nodesc-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1578-795548-nodesc-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1578-795548-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-795548-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-795548-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1595-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1595-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1595-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1595-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1595-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-01579B-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-01579B-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5844-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5.844</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-5844-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>8.766</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5844">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5844-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5844-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5844-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5.844</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-5844-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>8.766</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5844-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5844-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5844-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-6038-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6.038</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-6038-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>9.057</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0288D1-6038-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-6038-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-6038-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-6619-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6.619</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-6619-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>9.9285</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-6619">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-6619-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-6619-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-5263-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0F9D58-5263-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-5263-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>5.263</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0F9D58-5263-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>7.8945</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-5263-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-5263-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-5263-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-5456-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>5.456</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0F9D58-5456-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>8.184</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-5456-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-5456-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-5456-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-6231-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>6.231</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0F9D58-6231-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>9.3465</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-6231">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-6231-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-6231-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-6231-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>6.231</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0F9D58-6231-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>9.3465</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-6231-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-6231-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-6231-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-7006-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>7.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0F9D58-7006-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>10.509</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-7006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-7006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-7006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0F9D58-7006-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>7.006</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0F9D58-7006-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>10.509</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0F9D58-7006-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0F9D58-7006-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0F9D58-7006-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-5456-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>5.456</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-9C27B0-5456-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>8.184</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-5456">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-5456-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-5456-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-5844-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>5.844</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-5844-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>8.766</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-5844-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-5844-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-5844-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-6038-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>6.038</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-9C27B0-6038-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>9.057</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-6038">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-6038-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-6038-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-6038-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>6.038</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-6038-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>9.057</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-6038-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-6038-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-6038-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-6425-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>6.425</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-6425-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>9.6375</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-6425-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-6425-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-6425-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-6619-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>6.619</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-6619-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>9.9285</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-6619-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-6619-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-6619-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-BDBDBD-4681-nodesc-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>4.681</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-BDBDBD-4681-nodesc-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>7.0215</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-BDBDBD-4681-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-BDBDBD-4681-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-BDBDBD-4681-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-BDBDBD-5263-nodesc-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>5.263</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-BDBDBD-5263-nodesc-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>7.8945</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-BDBDBD-5263-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-BDBDBD-5263-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-BDBDBD-5263-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-BDBDBD-5650-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>5.65</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-BDBDBD-5650-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>8.475</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-BDBDBD-5650">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-BDBDBD-5650-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-BDBDBD-5650-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-BDBDBD-6038-nodesc-normal">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>6.038</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-BDBDBD-6038-nodesc-highlight">
+      <LineStyle>
+        <color>ffbdbdbd</color>
+        <width>9.057</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-BDBDBD-6038-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-BDBDBD-6038-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-BDBDBD-6038-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-6231-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>6.231</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFD600-6231-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>9.3465</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFD600-6231">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-6231-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-6231-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-6231-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>6.231</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-6231-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>9.3465</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-6231-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-6231-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-6231-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>District 1</name>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>existing Stay Healthy Street</description>
+        <styleUrl>#line-0F9D58-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.375056,47.546587,0
+            -122.370314,47.547065,0
+            -122.369134,47.547456,0
+            -122.368018,47.544299,0
+            -122.368662,47.543662,0
+            -122.370958,47.542821,0
+            -122.375142,47.542821,0
+            -122.375035,47.546457,0
+            -122.375228,47.533811,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-6425-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.376173,47.564918,0
+            -122.373899,47.566177,0
+            -122.372783,47.569478,0
+            -122.372139,47.570723,0
+            -122.370894,47.571317,0
+            -122.36935,47.571317,0
+            -122.361518,47.571404,0
+            -122.358664,47.571245,0
+            -122.360509,47.571172,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.322925,47.528171,0
+            -122.320264,47.528156,0
+            -122.320146,47.530518,0
+            -122.317668,47.530431,0
+            -122.317571,47.529004,0
+            -122.315361,47.528366,0
+            -122.314835,47.528518,0
+            -122.314427,47.528439,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.375258,47.533682,0
+            -122.375322,47.531943,0
+            -122.371288,47.531885,0
+            -122.371438,47.517468,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.371307,47.530098,0
+            -122.367112,47.530106,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.36537,47.568288,0
+            -122.365563,47.556197,0
+            -122.365563,47.551969,0
+            -122.365585,47.550086,0
+            -122.363117,47.550108,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.363117,47.550108,0
+            -122.361664,47.550103,0
+            -122.359669,47.546453,0
+            -122.359669,47.539138,0
+            -122.35718,47.539124,0
+            -122.357265,47.536878,0
+            -122.356986,47.535546,0
+            -122.355184,47.535473,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.355184,47.535473,0
+            -122.353879,47.535447,0
+            -122.3539,47.531811,0
+            -122.356432,47.531869,0
+            -122.356454,47.519104,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.356358,47.524741,0
+            -122.349266,47.524675,0
+            -122.347989,47.524654,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.359594,47.546861,0
+            -122.360194,47.557231,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.360213,47.559719,0
+            -122.360471,47.563064,0
+            -122.360213,47.564787,0
+            -122.360106,47.568378,0
+            -122.361222,47.568334,0
+            -122.361093,47.570709,0
+            -122.360857,47.570969,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.41343,47.578359,0
+            -122.419096,47.576722,0
+            -122.419074,47.575086,0
+            -122.413881,47.572669,0
+            -122.413474,47.572596,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-6038-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.396401,47.540528,0
+            -122.396486,47.540629,0
+            -122.396401,47.540528,0
+            -122.396486,47.540629,0
+            -122.396486,47.542918,0
+            -122.398182,47.544873,0
+            -122.398268,47.545583,0
+            -122.398718,47.546293,0
+            -122.39874,47.546742,0
+            -122.397903,47.548118,0
+            -122.397752,47.54916,0
+            -122.397752,47.550189,0
+            -122.398182,47.550855,0
+            -122.398053,47.552318,0
+            -122.398053,47.55281,0
+            -122.399061,47.553592,0
+            -122.399448,47.554765,0
+            -122.400048,47.556112,0
+            -122.403117,47.559935,0
+            -122.40419,47.561223,0
+            -122.40625,47.562715,0
+            -122.406851,47.564394,0
+            -122.407344,47.565147,0
+            -122.408803,47.566248,0
+            -122.409554,47.567319,0
+            -122.409511,47.568144,0
+            -122.409254,47.568521,0
+            -122.409211,47.569129,0
+            -122.410198,47.5702,0
+            -122.410777,47.571069,0
+            -122.411636,47.571575,0
+            -122.413474,47.572596,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.375056,47.546587,0
+            -122.377792,47.546516,0
+            -122.380549,47.546588,0
+            -122.380334,47.552034,0
+            -122.385645,47.552085,0
+            -122.385506,47.559246,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.38544,47.564737,0
+            -122.385568,47.573177,0
+            -122.383466,47.573148,0
+            -122.383273,47.579344,0
+            -122.385268,47.579315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.347866,47.517415,0
+            -122.347994,47.533324,0
+            -122.349325,47.533266,0
+            -122.349196,47.535468,0
+            -122.353879,47.535447,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Concord elementary to Stay Healthy Streets and South Park East. No sidewalks on S Henderson so people already walk/roll in street. 8th Ave and Trenton have become a Dump traffic route for avoiding arterial slowdowns related to WS bridge detour.</description>
+        <styleUrl>#line-0F9D58-5263</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.3213622,47.5230734,0
+            -122.325669,47.523098,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>District 2</name>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-6619-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.288266,47.578196,0
+            -122.288009,47.578862,0
+            -122.288202,47.579861,0
+            -122.287902,47.581829,0
+            -122.28792,47.58431,0
+            -122.287595,47.585401,0
+            -122.287908,47.5844,0
+            -122.287834,47.582935,0
+            -122.286206,47.582206,0
+            -122.285134,47.581337,0
+            -122.284125,47.579948,0
+            -122.282323,47.575808,0
+            -122.281207,47.574346,0
+            -122.280735,47.57339,0
+            -122.280713,47.572218,0
+            -122.280306,47.57106,0
+            -122.279533,47.570133,0
+            -122.276529,47.570017,0
+            -122.274662,47.569771,0
+            -122.272495,47.568048,0
+            -122.27213,47.5676,0
+            -122.270607,47.567686,0
+            -122.269856,47.567773,0
+            -122.268633,47.566716,0
+            -122.267903,47.565674,0
+            -122.268182,47.56466,0
+            -122.268804,47.56398,0
+            -122.267925,47.562489,0
+            -122.267131,47.561634,0
+            -122.264899,47.561359,0
+            -122.264084,47.560273,0
+            -122.263247,47.558275,0
+            -122.260951,47.554481,0
+            -122.260071,47.552439,0
+            -122.259824,47.551273,0
+            -122.258156,47.550777,0
+            -122.257604,47.549673,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.257759,47.549621,0
+            -122.258746,47.549678,0
+            -122.259004,47.548882,0
+            -122.262287,47.546145,0
+            -122.264003,47.544421,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Existing NGW</description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.264157,47.544348,0
+            -122.267225,47.544334,0
+            -122.267139,47.542451,0
+            -122.275352,47.542451,0
+            -122.275411,47.540655,0
+            -122.280872,47.54064,0
+            -122.28246,47.54064,0
+            -122.286258,47.540611,0
+            -122.286215,47.540104,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.286262,47.539962,0
+            -122.286422,47.537188,0
+            -122.291444,47.538868,0
+            -122.296132,47.538984,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.316872,47.594524,0
+            -122.315533,47.594632,0
+            -122.313516,47.59359,0
+            -122.311584,47.590725,0
+            -122.309396,47.589567,0
+            -122.305962,47.589792,0
+            -122.302443,47.589524,0
+            -122.302352,47.590255,0
+            -122.301918,47.59032,0
+            -122.300303,47.590204,0
+            -122.29956,47.5899,0
+            -122.298645,47.589886,0
+            -122.296779,47.590349,0
+            -122.293646,47.590465,0
+            -122.288582,47.59032,0
+            -122.287884,47.590573,0
+            -122.288904,47.591145,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.289097,47.591103,0
+            -122.289268,47.587674,0
+            -122.289526,47.587051,0
+            -122.290298,47.586979,0
+            -122.290663,47.586776,0
+            -122.290384,47.586212,0
+            -122.289719,47.586024,0
+            -122.289354,47.586284,0
+            -122.289934,47.586501,0
+            -122.29017,47.586574,0
+            -122.290148,47.586762,0
+            -122.289376,47.586646,0
+            -122.288775,47.586414,0
+            -122.287702,47.586574,0
+            -122.287251,47.586574,0
+            -122.287123,47.586299,0
+            -122.287595,47.585951,0
+            -122.287659,47.58572,0
+            -122.28753,47.58559,0
+            -122.287702,47.585532,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.288192,47.578018,0
+            -122.288407,47.577063,0
+            -122.289351,47.576831,0
+            -122.290381,47.576657,0
+            -122.290982,47.576165,0
+            -122.292054,47.576252,0
+            -122.292956,47.57657,0
+            -122.293642,47.57657,0
+            -122.294029,47.575934,0
+            -122.295874,47.575847,0
+            -122.297762,47.575847,0
+            -122.299093,47.57576,0
+            -122.299393,47.574052,0
+            -122.299093,47.572112,0
+            -122.299178,47.570346,0
+            -122.29935,47.56884,0
+            -122.299307,47.567392,0
+            -122.299779,47.566581,0
+            -122.299865,47.565713,0
+            -122.299908,47.564989,0
+            -122.301153,47.56412,0
+            -122.30214,47.563773,0
+            -122.302354,47.563193,0
+            -122.301582,47.562585,0
+            -122.301796,47.562035,0
+            -122.302998,47.561398,0
+            -122.304714,47.561224,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.279638,47.569852,0
+            -122.279467,47.563771,0
+            -122.27981,47.563192,0
+            -122.280582,47.562728,0
+            -122.282986,47.56186,0
+            -122.28496,47.561802,0
+            -122.284874,47.56073,0
+            -122.286891,47.560788,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312934,47.563379,0
+            -122.310637,47.561685,0
+            -122.304492,47.5596,0
+            -122.301475,47.560222,0
+            -122.298986,47.561265,0
+            -122.298101,47.561623,0
+            -122.297066,47.561663,0
+            -122.29478,47.56083,0
+            -122.293579,47.56083,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-6619-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.293293,47.560814,0
+            -122.287134,47.560771,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.286437,47.535235,0
+            -122.285321,47.533642,0
+            -122.284978,47.533062,0
+            -122.284463,47.532859,0
+            -122.284119,47.53144,0
+            -122.283433,47.530715,0
+            -122.282918,47.530686,0
+            -122.28236,47.529208,0
+            -122.280901,47.527817,0
+            -122.279871,47.527035,0
+            -122.279484,47.526137,0
+            -122.278969,47.524543,0
+            -122.278154,47.524224,0
+            -122.277682,47.523384,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.277682,47.523384,0
+            -122.264614,47.523299,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>uses existing NGW</description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.274156,47.523438,0
+            -122.274134,47.52609,0
+            -122.274735,47.526119,0
+            -122.274671,47.527727,0
+            -122.274521,47.52793,0
+            -122.274521,47.53061,0
+            -122.274499,47.531567,0
+            -122.275315,47.531552,0
+            -122.275336,47.53529,0
+            -122.276666,47.535174,0
+            -122.276731,47.537057,0
+            -122.276688,47.538882,0
+            -122.278212,47.538882,0
+            -122.278061,47.54065,0
+            -122.280872,47.54064,0
+            -122.280829,47.544604,0
+            -122.283469,47.544648,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>uses existing NGW (except for northernmost few blocks)</description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.283469,47.544648,0
+            -122.283382,47.550775,0
+            -122.284862,47.5505,0
+            -122.285216,47.55189,0
+            -122.286192,47.553418,0
+            -122.286107,47.555489,0
+            -122.286171,47.557878,0
+            -122.283446,47.557856,0
+            -122.283435,47.559529,0
+            -122.284969,47.559449,0
+            -122.284948,47.560694,0
+            -122.284916,47.562845,0
+            -122.285495,47.562845,0
+            -122.286064,47.562852,0
+            -122.286117,47.566139,0
+            -122.286171,47.567992,0
+            -122.287233,47.567934,0
+            -122.287244,47.569794,0
+            -122.288263,47.56978,0
+            -122.288242,47.571524,0
+            -122.287823,47.571575,0
+            -122.287759,47.573522,0
+            -122.28822,47.573754,0
+            -122.289937,47.573783,0
+            -122.289776,47.579652,0
+            -122.291922,47.579652,0
+            -122.291879,47.58097,0
+            -122.294228,47.58097,0
+            -122.294089,47.582931,0
+            -122.296449,47.582909,0
+            -122.296417,47.586231,0
+            -122.296964,47.586368,0
+            -122.296996,47.588937,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.264435,47.543955,0
+            -122.264606,47.541754,0
+            -122.267182,47.53961,0
+            -122.267353,47.53567,0
+            -122.266237,47.530222,0
+            -122.266237,47.52773,0
+            -122.264606,47.526339,0
+            -122.264614,47.523299,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.31722,47.553497,0
+            -122.317134,47.560679,0
+            -122.316833,47.561664,0
+            -122.316104,47.561693,0
+            -122.316018,47.565341,0
+            -122.314773,47.56537,0
+            -122.314773,47.567224,0
+            -122.312622,47.567242,0
+            -122.312934,47.563379,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312622,47.567242,0
+            -122.312443,47.571489,0
+            -122.311478,47.571778,0
+            -122.310362,47.571822,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.309396,47.589567,0
+            -122.309466,47.578726,0
+            -122.3086,47.5751,0
+            -122.310222,47.575064,0
+            -122.310362,47.571822,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.283815,47.521686,0
+            -122.287283,47.524708,0
+            -122.287806,47.526217,0
+            -122.287987,47.530913,0
+            -122.289584,47.534335,0
+            -122.298563,47.54077,0
+            -122.299679,47.54413,0
+            -122.300752,47.547462,0
+            -122.303364,47.555984,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-4681-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.288239,47.538102,0
+            -122.289998,47.539811,0
+            -122.292187,47.543229,0
+            -122.29223,47.544301,0
+            -122.293646,47.545547,0
+            -122.29356,47.546416,0
+            -122.294299,47.546508,0
+            -122.296471,47.549595,0
+            -122.29584,47.550009,0
+            -122.296598,47.5501,0
+            -122.298136,47.551565,0
+            -122.297703,47.55195,0
+            -122.299246,47.553416,0
+            -122.299932,47.5547,0
+            -122.30079,47.5554,0
+            -122.303364,47.555984,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.304492,47.5596,0
+            -122.303364,47.555984,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.314812,47.58202,0
+            -122.314919,47.586955,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.314812,47.58202,0
+            -122.31471,47.578657,0
+            -122.311684,47.578599,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description>preferred route to access local businesses and provide additional pedestrian space outside of takeout locations.</description>
+        <styleUrl>#line-0288D1-5844</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.311684,47.578599,0
+            -122.30976,47.576804,0
+            -122.309231,47.575154,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.317325,47.588391,0
+            -122.317325,47.586943,0
+            -122.314919,47.586955,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.317325,47.588391,0
+            -122.31733,47.591545,0
+            -122.317287,47.593644,0
+            -122.317201,47.594078,0
+            -122.3166,47.594309,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.259824,47.551273,0
+            -122.260611,47.551113,0
+            -122.266619,47.551142,0
+            -122.287862,47.5512,0
+            -122.266619,47.551142,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Alternate route to Beacon Ave business district. Would be beneficial if there were wayfinding pointing towards business district at McClellan.</description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.31471,47.578657,0
+            -122.31466,47.577712,0
+            -122.31464,47.57676,0
+            -122.314662,47.575986,0
+            -122.310767,47.575971,0
+            -122.310724,47.575066,0
+            -122.310222,47.575064,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.320812,47.550475,0
+            -122.322346,47.55117,0
+            -122.323794,47.551822,0
+            -122.322346,47.55117,0
+            -122.323009,47.550491,0
+            -122.323648,47.550765,0
+            -122.324556,47.551192,0
+            -122.321016,47.54957,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[This street is only used by locals. It's a dead end unless you use the alley, so it's very calm already traffic wise.]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.322476,47.524914,0
+            -122.323013,47.525392,0
+            -122.32297,47.526435,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.25752,47.549842,0
+            -122.256598,47.549857,0
+            -122.256898,47.551132,0
+            -122.256426,47.551914,0
+            -122.255203,47.552319,0
+            -122.254388,47.552029,0
+            -122.25383,47.551522,0
+            -122.253036,47.551204,0
+            -122.25207,47.551146,0
+            -122.251233,47.551667,0
+            -122.250911,47.552594,0
+            -122.250525,47.552855,0
+            -122.250032,47.552927,0
+            -122.249366,47.552754,0
+            -122.248916,47.552565,0
+            -122.248916,47.55216,0
+            -122.249152,47.55187,0
+            -122.249173,47.551291,0
+            -122.249238,47.55074,0
+            -122.249796,47.550364,0
+            -122.250439,47.550031,0
+            -122.251426,47.549712,0
+            -122.252499,47.54977,0
+            -122.253422,47.550031,0
+            -122.253701,47.550335,0
+            -122.253851,47.550827,0
+            -122.253894,47.551436,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.31902,47.547354,0
+            -122.321574,47.539445,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.322862,47.528199,0
+            -122.320228,47.528145,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.320435,47.523006,0
+            -122.320174,47.524738,0
+            -122.320452,47.524868,0
+            -122.32041,47.525187,0
+            -122.320238,47.525317,0
+            -122.320228,47.528145,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.319006,47.543956,0
+            -122.321139,47.544281,0
+            -122.32237,47.544462,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.321844,47.545994,0
+            -122.318572,47.545462,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.314962,47.527364,0
+            -122.317548,47.528212,0
+            -122.322869,47.528197,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.320159,47.530516,0
+            -122.317648,47.530487,0
+            -122.317548,47.528212,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>District 3</name>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 22<br>route_length: 0.2371274969014<br>n_intersections: 16<br>ogc_fid: 22<br>route_length: 0.2371274969014<br>n_intersections: 16]]></description>
+        <styleUrl>#line-0288D1-6619</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 22
+route_length: 0.2371274969014
+n_intersections: 16</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>22</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.2371274969014</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>16</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.32578,47.618427,0
+            -122.323364,47.618446,0
+            -122.322913,47.618692,0
+            -122.320832,47.618692,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 15<br>route_length: 0.230866252747293<br>n_intersections: 10<br>ogc_fid: 15<br>route_length: 0.230866252747293<br>n_intersections: 10]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 15
+route_length: 0.230866252747293
+n_intersections: 10</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>15</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.230866252747293</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>10</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.318143,47.615342,0
+            -122.318229,47.618684,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 19<br>route_length: 0.747052212499352<br>n_intersections: 21<br>ogc_fid: 19<br>route_length: 0.747052212499352<br>n_intersections: 21]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 19
+route_length: 0.747052212499352
+n_intersections: 21</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>19</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.747052212499352</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>21</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312905,47.601712,0
+            -122.312948,47.6008,0
+            -122.309086,47.6008,0
+            -122.308914,47.597552,0
+            -122.304859,47.597462,0
+            -122.304795,47.59604,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 5<br>route_length: 0.476601091214157<br>n_intersections: 2<br>ogc_fid: 5<br>route_length: 0.476601091214157<br>n_intersections: 2]]></description>
+        <styleUrl>#line-BDBDBD-5650</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 5
+route_length: 0.476601091214157
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>5</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.476601091214157</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.302476,47.635695,0
+            -122.303185,47.636087,0
+            -122.303539,47.635871,0
+            -122.304216,47.6359,0
+            -122.305525,47.635221,0
+            -122.305825,47.636002,0
+            -122.306748,47.636016,0
+            -122.307456,47.636392,0
+            -122.308443,47.635727,0
+            -122.30855,47.636218,0
+            -122.308851,47.6371,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 4<br>route_length: 0.637417642481492<br>n_intersections: 29<br>ogc_fid: 4<br>route_length: 0.637417642481492<br>n_intersections: 29]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 4
+route_length: 0.637417642481492
+n_intersections: 29</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>4</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.637417642481492</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>29</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.298613,47.641117,0
+            -122.298914,47.641001,0
+            -122.303806,47.640972,0
+            -122.303806,47.639469,0
+            -122.303441,47.639238,0
+            -122.30284,47.637792,0
+            -122.302368,47.63678,0
+            -122.302325,47.635623,0
+            -122.302476,47.635695,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 10<br>route_length: 1.28498433067361<br>n_intersections: 44<br>ogc_fid: 10<br>route_length: 1.28498433067361<br>n_intersections: 44]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 10
+route_length: 1.28498433067361
+n_intersections: 44</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>10</value>
+          </Data>
+          <Data name="route_length">
+            <value>1.28498433067361</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>44</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.327608,47.627752,0
+            -122.327887,47.626321,0
+            -122.32793,47.625005,0
+            -122.327865,47.618033,0
+            -122.327908,47.614063,0
+            -122.3241,47.609897,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 6<br>route_length: 0.561504575241147<br>n_intersections: 2<br>ogc_fid: 6<br>route_length: 0.561504575241147<br>n_intersections: 2]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 6
+route_length: 0.561504575241147
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>6</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.561504575241147</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.308875,47.637202,0
+            -122.309305,47.637563,0
+            -122.309498,47.637418,0
+            -122.309176,47.636956,0
+            -122.308832,47.636435,0
+            -122.308983,47.636059,0
+            -122.309068,47.635814,0
+            -122.308983,47.635018,0
+            -122.308897,47.634758,0
+            -122.308489,47.634787,0
+            -122.308103,47.635076,0
+            -122.307867,47.635438,0
+            -122.307524,47.63525,0
+            -122.307288,47.634772,0
+            -122.307223,47.634512,0
+            -122.307395,47.634238,0
+            -122.307395,47.633977,0
+            -122.307845,47.633659,0
+            -122.308275,47.633341,0
+            -122.308232,47.632994,0
+            -122.307867,47.632618,0
+            -122.307524,47.632387,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 14<br>route_length: 1.62134917107111<br>n_intersections: 46<br>ogc_fid: 14<br>route_length: 1.62134917107111<br>n_intersections: 46]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 14
+route_length: 1.62134917107111
+n_intersections: 46</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>14</value>
+          </Data>
+          <Data name="route_length">
+            <value>1.62134917107111</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>46</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312627,47.632226,0
+            -122.313528,47.631778,0
+            -122.315824,47.631894,0
+            -122.315224,47.63039,0
+            -122.314623,47.629566,0
+            -122.314086,47.629059,0
+            -122.314666,47.628698,0
+            -122.314558,47.62825,0
+            -122.314687,47.621192,0
+            -122.314322,47.621149,0
+            -122.31428,47.618791,0
+            -122.320138,47.618748,0
+            -122.320052,47.615305,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 13<br>route_length: 0.230539131182526<br>n_intersections: 15<br>ogc_fid: 13<br>route_length: 0.230539131182526<br>n_intersections: 15]]></description>
+        <styleUrl>#line-0288D1-6619</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 13
+route_length: 0.230539131182526
+n_intersections: 15</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>13</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.230539131182526</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.307532,47.632298,0
+            -122.312468,47.632385,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: mostly on existing NGW<br>ogc_fid: 2<br>route_length: 1.35445652632781<br>n_intersections: 57<br>ogc_fid: 2<br>route_length: 1.35445652632781<br>n_intersections: 57]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: mostly on existing NGW
+ogc_fid: 2
+route_length: 1.35445652632781
+n_intersections: 57</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>2</value>
+          </Data>
+          <Data name="route_length">
+            <value>1.35445652632781</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>57</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.290436,47.610445,0
+            -122.290372,47.609158,0
+            -122.293655,47.609274,0
+            -122.293698,47.60897,0
+            -122.304577,47.609013,0
+            -122.306315,47.608999,0
+            -122.306358,47.609216,0
+            -122.316765,47.60923,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 7<br>route_length: 0.637859496359594<br>n_intersections: 2<br>ogc_fid: 7<br>route_length: 0.637859496359594<br>n_intersections: 2]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 7
+route_length: 0.637859496359594
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>7</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.637859496359594</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.30978,47.637333,0
+            -122.310381,47.636654,0
+            -122.311003,47.636524,0
+            -122.311089,47.636827,0
+            -122.31111,47.637492,0
+            -122.310874,47.63797,0
+            -122.311261,47.63849,0
+            -122.311668,47.63875,0
+            -122.312591,47.638664,0
+            -122.313127,47.638678,0
+            -122.314007,47.638982,0
+            -122.314522,47.639488,0
+            -122.314994,47.639994,0
+            -122.315616,47.640456,0
+            -122.31581,47.641006,0
+            -122.315938,47.64141,0
+            -122.316196,47.641728,0
+            -122.316732,47.641815,0
+            -122.31714,47.642032,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 20<br>route_length: 0.900042873322999<br>n_intersections: 27<br>ogc_fid: 20<br>route_length: 0.900042873322999<br>n_intersections: 27]]></description>
+        <styleUrl>#line-0288D1-6619</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 20
+route_length: 0.900042873322999
+n_intersections: 27</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>20</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.900042873322999</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>27</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312756,47.601675,0
+            -122.314115,47.601683,0
+            -122.314251,47.608736,0
+            -122.314208,47.613842,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: Uses existing NGW<br>ogc_fid: 1<br>route_length: 3.38806187378379<br>n_intersections: 98<br>ogc_fid: 1<br>route_length: 3.38806187378379<br>n_intersections: 98]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: Uses existing NGW
+ogc_fid: 1
+route_length: 3.38806187378379
+n_intersections: 98</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>1</value>
+          </Data>
+          <Data name="route_length">
+            <value>3.38806187378379</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>98</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.301322,47.590569,0
+            -122.301536,47.59109,0
+            -122.301193,47.591408,0
+            -122.301279,47.59219,0
+            -122.29909,47.592074,0
+            -122.299047,47.592971,0
+            -122.300163,47.593043,0
+            -122.30012,47.595576,0
+            -122.299862,47.599367,0
+            -122.299906,47.607816,0
+            -122.30012,47.608221,0
+            -122.30012,47.60906,0
+            -122.303897,47.609046,0
+            -122.303467,47.617132,0
+            -122.303897,47.617218,0
+            -122.303854,47.618115,0
+            -122.304884,47.618723,0
+            -122.304755,47.624306,0
+            -122.304669,47.63064,0
+            -122.306128,47.630668,0
+            -122.306128,47.632288,0
+            -122.307373,47.632346,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 18<br>route_length: 0.227021002529069<br>n_intersections: 2<br>ogc_fid: 18<br>route_length: 0.227021002529069<br>n_intersections: 2]]></description>
+        <styleUrl>#line-9C27B0-5456</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 18
+route_length: 0.227021002529069
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>18</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.227021002529069</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.33064,47.61842,0
+            -122.327614,47.61842,0
+            -122.32578,47.618427,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 8<br>route_length: 0.624142414491391<br>n_intersections: 21<br>ogc_fid: 8<br>route_length: 0.624142414491391<br>n_intersections: 21]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 8
+route_length: 0.624142414491391
+n_intersections: 21</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>8</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.624142414491391</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>21</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.317967,47.642484,0
+            -122.317988,47.641349,0
+            -122.321422,47.641367,0
+            -122.321776,47.641255,0
+            -122.322216,47.640811,0
+            -122.322323,47.639629,0
+            -122.322452,47.637962,0
+            -122.322419,47.63677,0
+            -122.322462,47.636036,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 11<br>route_length: 0.760122034078898<br>n_intersections: 13<br>ogc_fid: 11<br>route_length: 0.760122034078898<br>n_intersections: 13]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 11
+route_length: 0.760122034078898
+n_intersections: 13</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>11</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.760122034078898</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>13</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.28749,47.585564,0
+            -122.287683,47.58594,0
+            -122.28719,47.586288,0
+            -122.287276,47.586577,0
+            -122.28779,47.586649,0
+            -122.288584,47.586346,0
+            -122.290065,47.586809,0
+            -122.290237,47.586592,0
+            -122.289464,47.586317,0
+            -122.28955,47.586085,0
+            -122.290129,47.586056,0
+            -122.290601,47.586447,0
+            -122.290601,47.586896,0
+            -122.290001,47.587069,0
+            -122.289443,47.587142,0
+            -122.289078,47.591165,0
+            -122.288563,47.591165,0
+            -122.288627,47.591049,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 9<br>route_length: 0.629979051245946<br>n_intersections: 23<br>ogc_fid: 9<br>route_length: 0.629979051245946<br>n_intersections: 23]]></description>
+        <styleUrl>#line-0288D1-6619</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 9
+route_length: 0.629979051245946
+n_intersections: 23</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>9</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.629979051245946</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>23</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.322458,47.6358,0
+            -122.322244,47.633342,0
+            -122.323918,47.631867,0
+            -122.324175,47.630912,0
+            -122.327566,47.627847,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 26<br>route_length: 1.07579659252687<br>n_intersections: 22<br>ogc_fid: 26<br>route_length: 1.07579659252687<br>n_intersections: 22]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 26
+route_length: 1.07579659252687
+n_intersections: 22</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>26</value>
+          </Data>
+          <Data name="route_length">
+            <value>1.07579659252687</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>22</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.284914,47.602822,0
+            -122.288197,47.601462,0
+            -122.288218,47.6011,0
+            -122.287618,47.600912,0
+            -122.287746,47.600666,0
+            -122.28839,47.600492,0
+            -122.288454,47.600217,0
+            -122.288283,47.59961,0
+            -122.288433,47.599277,0
+            -122.28869,47.599074,0
+            -122.289141,47.599074,0
+            -122.28972,47.599248,0
+            -122.290235,47.599407,0
+            -122.290707,47.599349,0
+            -122.290664,47.599016,0
+            -122.2903,47.598134,0
+            -122.289742,47.597685,0
+            -122.28942,47.597338,0
+            -122.289162,47.596918,0
+            -122.289055,47.59673,0
+            -122.289055,47.596354,0
+            -122.289162,47.594907,0
+            -122.289227,47.594342,0
+            -122.289248,47.593923,0
+            -122.289205,47.593156,0
+            -122.289141,47.592302,0
+            -122.289055,47.591593,0
+            -122.289078,47.591165,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 21<br>route_length: 0.3177814138297<br>n_intersections: 15<br>ogc_fid: 21<br>route_length: 0.3177814138297<br>n_intersections: 15]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 21
+route_length: 0.3177814138297
+n_intersections: 15</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>21</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.3177814138297</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.314187,47.614074,0
+            -122.314251,47.618674,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 3<br>route_length: 4.46295199901356<br>n_intersections: 72<br>ogc_fid: 3<br>route_length: 4.46295199901356<br>n_intersections: 72]]></description>
+        <styleUrl>#line-9C27B0-5456</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 3
+route_length: 4.46295199901356
+n_intersections: 72</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>3</value>
+          </Data>
+          <Data name="route_length">
+            <value>4.46295199901356</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>72</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.287254,47.585509,0
+            -122.286181,47.587969,0
+            -122.28601,47.589214,0
+            -122.287168,47.59179,0
+            -122.287769,47.592918,0
+            -122.287598,47.596189,0
+            -122.285881,47.600008,0
+            -122.283778,47.603973,0
+            -122.283006,47.608342,0
+            -122.282534,47.611351,0
+            -122.281117,47.612971,0
+            -122.281332,47.614476,0
+            -122.281117,47.615575,0
+            -122.281761,47.616645,0
+            -122.281375,47.617947,0
+            -122.281375,47.619336,0
+            -122.281375,47.620348,0
+            -122.282877,47.621447,0
+            -122.283864,47.622084,0
+            -122.284508,47.621563,0
+            -122.284465,47.622488,0
+            -122.285838,47.622662,0
+            -122.288713,47.624079,0
+            -122.29073,47.6246,0
+            -122.291675,47.625005,0
+            -122.292619,47.626075,0
+            -122.292876,47.627232,0
+            -122.293305,47.627753,0
+            -122.29588,47.628649,0
+            -122.297211,47.631136,0
+            -122.297082,47.632814,0
+            -122.297897,47.633971,0
+            -122.298326,47.635214,0
+            -122.297897,47.63747,0
+            -122.29691,47.637961,0
+            -122.296567,47.640419,0
+            -122.298541,47.641287,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 17<br>route_length: 1.1524093224337<br>n_intersections: 43<br>ogc_fid: 17<br>route_length: 1.1524093224337<br>n_intersections: 43]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 17
+route_length: 1.1524093224337
+n_intersections: 43</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>17</value>
+          </Data>
+          <Data name="route_length">
+            <value>1.1524093224337</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>43</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.327924,47.624271,0
+            -122.325338,47.624242,0
+            -122.325333,47.623182,0
+            -122.323075,47.623164,0
+            -122.319963,47.623106,0
+            -122.312689,47.623164,0
+            -122.304814,47.623193,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 28<br>route_length: 0<br>n_intersections: 2<br>ogc_fid: 28<br>route_length: 0<br>n_intersections: 2]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 28
+route_length: 0
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>28</value>
+          </Data>
+          <Data name="route_length">
+            <value>0</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.325333,47.623182,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 16<br>route_length: 0.27266364302387<br>n_intersections: 14<br>ogc_fid: 16<br>route_length: 0.27266364302387<br>n_intersections: 14]]></description>
+        <styleUrl>#line-0288D1-6619</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 16
+route_length: 0.27266364302387
+n_intersections: 14</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>16</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.27266364302387</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>14</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.319998,47.615306,0
+            -122.316843,47.615276,0
+            -122.314161,47.615303,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 12<br>route_length: 0.673474218303691<br>n_intersections: 17<br>ogc_fid: 12<br>route_length: 0.673474218303691<br>n_intersections: 17]]></description>
+        <styleUrl>#line-BDBDBD-5650</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 12
+route_length: 0.673474218303691
+n_intersections: 17</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>12</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.673474218303691</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>17</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.288657,47.590952,0
+            -122.288614,47.590272,0
+            -122.294665,47.590474,0
+            -122.295996,47.590561,0
+            -122.296875,47.590272,0
+            -122.297841,47.590315,0
+            -122.298635,47.589809,0
+            -122.299729,47.589794,0
+            -122.300437,47.5902,0
+            -122.301338,47.590402,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Use existing trail/PBL</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 24<br>route_length: 0.527424838441741<br>n_intersections: 2<br>ogc_fid: 24<br>route_length: 0.527424838441741<br>n_intersections: 2]]></description>
+        <styleUrl>#line-BDBDBD-5650</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 24
+route_length: 0.527424838441741
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>24</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.527424838441741</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.304795,47.59604,0
+            -122.304648,47.595679,0
+            -122.304691,47.594536,0
+            -122.304369,47.593957,0
+            -122.30439,47.593147,0
+            -122.304262,47.59264,0
+            -122.304219,47.592033,0
+            -122.303575,47.592062,0
+            -122.303489,47.591627,0
+            -122.303725,47.591266,0
+            -122.302288,47.590745,0
+            -122.302266,47.590209,0
+            -122.301338,47.590402,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 25<br>route_length: 0.456310458476008<br>n_intersections: 20<br>ogc_fid: 25<br>route_length: 0.456310458476008<br>n_intersections: 20]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 25
+route_length: 0.456310458476008
+n_intersections: 20</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>25</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.456310458476008</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>20</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.31428,47.618791,0
+            -122.31371,47.61878,0
+            -122.313345,47.618519,0
+            -122.304676,47.618505,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[description: description: <br>ogc_fid: 23<br>route_length: 0.0321935397071729<br>n_intersections: 2<br>ogc_fid: 23<br>route_length: 0.0321935397071729<br>n_intersections: 2]]></description>
+        <styleUrl>#line-0F9D58-6231</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ogc_fid: 23
+route_length: 0.0321935397071729
+n_intersections: 2</value>
+          </Data>
+          <Data name="ogc_fid">
+            <value>23</value>
+          </Data>
+          <Data name="route_length">
+            <value>0.0321935397071729</value>
+          </Data>
+          <Data name="n_intersections">
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.320138,47.618748,0
+            -122.320826,47.618731,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Combined District 4, 5, and 6</name>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.2856,47.666668,0
+            -122.28575,47.666972,0
+            -122.285793,47.671336,0
+            -122.285772,47.674774,0
+            -122.285798,47.67576,0
+            -122.285954,47.675764,0
+            -122.286116,47.68119,0
+            -122.286363,47.681184,0
+            -122.286429,47.683022,0
+            -122.286217,47.682998,0
+            -122.286392,47.688415,0
+            -122.287424,47.688429,0
+            -122.287516,47.690162,0
+            -122.288,47.690161,0
+            -122.287916,47.693078,0
+            -122.293411,47.693164,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.288543,47.719263,0
+            -122.288672,47.726365,0
+            -122.288243,47.726365,0
+            -122.288414,47.733754,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.299229,47.729107,0
+            -122.299229,47.729728,0
+            -122.299272,47.730204,0
+            -122.299057,47.721082,0
+            -122.301916,47.721103,0
+            -122.301933,47.722973,0
+            -122.307265,47.723002,0
+            -122.307318,47.726567,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.3497,47.708706,0
+            -122.350086,47.708662,0
+            -122.349958,47.695334,0
+            -122.349872,47.684819,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.335152,47.701436,0
+            -122.35809,47.701451,0
+            -122.357961,47.681808,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.339787,47.701379,0
+            -122.33955,47.695959,0
+            -122.336525,47.69597,0
+            -122.341846,47.695906,0
+            -122.341954,47.695638,0
+            -122.349958,47.695602,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.358105,47.695982,0
+            -122.372675,47.696069,0
+            -122.372922,47.696357,0
+            -122.373839,47.696097,0
+            -122.376945,47.696039,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.37887,47.694725,0
+            -122.378827,47.694248,0
+            -122.37902,47.693923,0
+            -122.378859,47.66553,0
+            -122.380887,47.664473,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.363988,47.670871,0
+            -122.398352,47.670916,0
+            -122.399023,47.670442,0
+            -122.403843,47.670451,0
+            -122.404064,47.67057,0
+            -122.405076,47.671945,0
+            -122.405315,47.671991,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.344617,47.65919,0
+            -122.335052,47.659211,0
+            -122.335052,47.660281,0
+            -122.326212,47.660252,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.31559,47.656234,0
+            -122.31544,47.661278,0
+            -122.315332,47.662275,0
+            -122.315247,47.662694,0
+            -122.315161,47.670093,0
+            -122.315139,47.671364,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.364631,47.65896,0
+            -122.36394,47.658971,0
+            -122.36402,47.665052,0
+            -122.36329,47.665052,0
+            -122.363333,47.668693,0
+            -122.362861,47.668693,0
+            -122.362861,47.669416,0
+            -122.364031,47.669462,0
+            -122.363993,47.670933,0
+            -122.363988,47.675946,0
+            -122.363441,47.675946,0
+            -122.363532,47.679492,0
+            -122.363366,47.679601,0
+            -122.363248,47.684615,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Close to vehicle traffic</name>
+        <styleUrl>#line-FFD600-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.346729,47.675643,0
+            -122.3466,47.675094,0
+            -122.345828,47.674343,0
+            -122.344626,47.673418,0
+            -122.344197,47.67284,0
+            -122.343854,47.671974,0
+            -122.343425,47.671164,0
+            -122.342738,47.670586,0
+            -122.341708,47.670297,0
+            -122.340206,47.669748,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Close to vehicle traffic</name>
+        <styleUrl>#line-FFD600-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.344669,47.665182,0
+            -122.344197,47.665904,0
+            -122.343425,47.666511,0
+            -122.344283,47.667465,0
+            -122.345227,47.667696,0
+            -122.34557,47.667061,0
+            -122.345871,47.666511,0
+            -122.345614,47.666006,0
+            -122.344669,47.665182,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Close to vehicle traffic</name>
+        <styleUrl>#line-FFD600-6231-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.260469,47.682113,0
+            -122.260126,47.681622,0
+            -122.260126,47.680958,0
+            -122.26107,47.680553,0
+            -122.260925,47.67922,0
+            -122.260694,47.678639,0
+            -122.260576,47.67736,0
+            -122.259482,47.675959,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <description><![CDATA[Close westernmost lane to vehicle traffic.<br>Connect with the Ship Canal Trail and the Nickerson bike lane]]></description>
+        <styleUrl>#line-9C27B0-6038</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.378829,47.654001,0
+            -122.376378,47.654095,0
+            -122.376447,47.66294,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.30379,47.66929,0
+            -122.306279,47.669188,0
+            -122.307802,47.669694,0
+            -122.30791,47.670431,0
+            -122.308511,47.670402,0
+            -122.30924,47.670055,0
+            -122.310935,47.670446,0
+            -122.311815,47.670691,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.405491,47.672166,0
+            -122.406392,47.672513,0
+            -122.406478,47.675258,0
+            -122.40622,47.677743,0
+            -122.403903,47.681384,0
+            -122.402873,47.683146,0
+            -122.402744,47.686007,0
+            -122.402701,47.686729,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.402704,47.686839,0
+            -122.402682,47.687952,0
+            -122.401867,47.687923,0
+            -122.401652,47.688732,0
+            -122.40206,47.690595,0
+            -122.401888,47.690682,0
+            -122.400859,47.689107,0
+            -122.400322,47.68915,0
+            -122.39955,47.689902,0
+            -122.40103,47.692978,0
+            -122.401116,47.693787,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Connection via existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.312196,47.670803,0
+            -122.319362,47.672537,0
+            -122.325413,47.67927,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.339888,47.669841,0
+            -122.339588,47.671459,0
+            -122.338343,47.672008,0
+            -122.336541,47.672702,0
+            -122.334395,47.674811,0
+            -122.332807,47.675765,0
+            -122.332292,47.67721,0
+            -122.331262,47.678366,0
+            -122.329202,47.678394,0
+            -122.32697,47.678423,0
+            -122.325855,47.679435,0
+            -122.325597,47.680012,0
+            -122.327013,47.681399,0
+            -122.329245,47.682353,0
+            -122.332206,47.682671,0
+            -122.333365,47.682815,0
+            -122.335253,47.684722,0
+            -122.33727,47.685733,0
+            -122.338815,47.6853,0
+            -122.339545,47.684058,0
+            -122.34036,47.682728,0
+            -122.342377,47.681833,0
+            -122.344222,47.681313,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-6038-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.344308,47.681053,0
+            -122.345081,47.680099,0
+            -122.345338,47.678452,0
+            -122.34581,47.676834,0
+            -122.346729,47.675643,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.401149,47.670436,0
+            -122.401106,47.681503,0
+            -122.400548,47.683121,0
+            -122.399304,47.68315,0
+            -122.399389,47.684999,0
+            -122.36643,47.685056,0
+            -122.365916,47.684623,0
+            -122.349872,47.684819,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.342799,47.648173,0
+            -122.346833,47.64878,0
+            -122.347606,47.648361,0
+            -122.349515,47.648564,0
+            -122.351597,47.649359,0
+            -122.35327,47.650038,0
+            -122.354257,47.650212,0
+            -122.354536,47.650298,0
+            -122.354515,47.650486,0
+            -122.357605,47.651917,0
+            -122.357755,47.652221,0
+            -122.359643,47.6529,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>SDOT construction for NGW should start soon https://www.seattle.gov/transportation/projects-and-programs/programs/greenways-program/northgate</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.314855,47.691816,0
+            -122.31507,47.703167,0
+            -122.32331,47.703167,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.349923,47.651379,0
+            -122.344773,47.650541,0
+            -122.337499,47.650483,0
+            -122.331641,47.650497,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <description>connect to Ship Canal Trail</description>
+        <styleUrl>#line-9C27B0-6038</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.349923,47.651379,0
+            -122.349783,47.649556,0
+            -122.349697,47.646347,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.40038,47.684916,0
+            -122.39832,47.684916,0
+            -122.366112,47.685033,0
+            -122.366016,47.684686,0
+            -122.358108,47.684743,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.330245,47.651715,0
+            -122.330159,47.65991,0
+            -122.330095,47.664318,0
+            -122.334107,47.67043,0
+            -122.335288,47.670647,0
+            -122.33621,47.671023,0
+            -122.337605,47.672121,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.293411,47.693164,0
+            -122.293286,47.701148,0
+            -122.294187,47.701119,0
+            -122.294144,47.704729,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.320323,47.703228,0
+            -122.320967,47.721275,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[Olympic Hills Greenway extension: Avoids creating access problems for people in the neighborhood at 25th where greenway is. Recommend excluding the northern portion of the Greenway on 25th for Safe & Healthy Street]]></description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.299223,47.73373,0
+            -122.299272,47.730204,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[Olympic Hills Greenway: extension of Safe & Healthy street along 27th Ave NE for more direct access to heart of Lake City. Exclude portion of Greenway that jogs over to 25th Ave NE.]]></description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.299092,47.720989,0
+            -122.299071,47.719286,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Corliss Walking Route</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.331546,47.723223,0
+            -122.33161,47.734019,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[Phinney Bus Access & Walking route route:<br>Phinney Ave  is often used as a cut-through route to avoind Greenwood Ave and used to access bus stops on Greenwood Ave due to lack of sidewalks and right-of-way encroachment by parked cars along Greenwood Ave N.]]></description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.354174,47.710397,0
+            -122.354217,47.721355,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[1st Ave NW Pleasant Walking route<br>2nd Ave extension to 1st Ave NW due to grade increase on 1st Ave NW]]></description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.358217,47.72509,0
+            -122.35827,47.72867,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Bus access for Compass Housing and to Greenwood School and Bitter Lake Playfield</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.360814,47.725085,0
+            -122.355664,47.725057,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Walking route to Peak Park: Greenwood Ave is narrow and has narrow sidewalks that make it difficult to distance oneself from others. People walk here because the gardens are beautiful , it is relatively flat, has stunning sunset views, accesses Woodland Park via underpass at Phinney Ave N, and traffic is light.</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.355341,47.677782,0
+            -122.355374,47.662913,0
+            -122.355406,47.662292,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Close to vehicle traffic</name>
+        <description><![CDATA[Woodland Park access via underpass:<br>Important access to large parking lot where kids could ride bikes if parking lot was closed  to traffic at N 59th. Zoo parking lot is closed and un-necessarily being used as a cut-through route to Ballard.]]></description>
+        <styleUrl>#line-FFD600-6231</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.355372,47.670477,0
+            -122.354187,47.670494,0
+            -122.353208,47.670534,0
+            -122.352627,47.67076,0
+            -122.351516,47.670776,0
+            -122.351379,47.670885,0
+            -122.351392,47.671752,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>4th Ave NW Walking route: Used by people walking and exercising. Traffic cuts-through to avoid Greenwood Ave N</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.362254,47.726658,0
+            -122.362254,47.714128,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description><![CDATA[Phinney Ave N walking route: <br>Important due to proximity to Greenwood Ave N , widely used by people walking. Important to closed in tandem with Evanston Ave N to prevent increased traffic  on both streets avoiding Greenwood Ave.]]></description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.354177,47.710563,0
+            -122.354149,47.708732,0
+            -122.350086,47.708662,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>1st Ave NW Pleasant Walking Route</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.35827,47.72867,0
+            -122.359587,47.728689,0
+            -122.35963,47.732283,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>1st Ave NW Greenway Connector: 1st Ave NW offers walking connections to Phinney business district and connects to existing 1st Ave NW Greenway to access Greenwood business district.</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.357403,47.681806,0
+            -122.357403,47.67779,0
+            -122.355438,47.677789,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Disrupt cut-through traffic in favor of walking and biking.</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.344781,47.69788,0
+            -122.358009,47.697842,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>127th Connector: Connector to other route to form loop walk</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.3559166,47.7214164,0
+            -122.3622036,47.721431,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>N 127th connector</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.3516373,47.7214043,0
+            -122.3553067,47.7214627,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Tangletown Traverse</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.331024,47.66574,0
+            -122.328556,47.666463,0
+            -122.329522,47.667893,0
+            -122.328213,47.667908,0
+            -122.328213,47.670653,0
+            -122.328277,47.672337,0
+            -122.328277,47.673178,0
+            -122.32817,47.67402,0
+            -122.328148,47.675913,0
+            -122.327333,47.675913,0
+            -122.327183,47.677589,0
+            -122.327526,47.67834,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <description>Neighborhood walking route with Olympic views</description>
+        <styleUrl>#line-0F9D58-7006</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.36636,47.716041,0
+            -122.366317,47.725165,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.2861011,47.6776383,0
+            -122.3108632,47.6776094,0
+            -122.3109061,47.6794442,0
+            -122.3118503,47.6794586,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.301916,47.721103,0
+            -122.3018912,47.7192496,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-7006-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.301933,47.722973,0
+            -122.299209,47.7229307,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>District 7</name>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.352826,47.620933,0
+            -122.360658,47.620962,0
+            -122.360657,47.620607,0
+            -122.360677,47.622081,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Connection via existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-6038-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.360669,47.621551,0
+            -122.360751,47.620877,0
+            -122.360929,47.620766,0
+            -122.362059,47.62013,0
+            -122.358454,47.617469,0
+            -122.356909,47.616109,0
+            -122.355106,47.614894,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Connection via existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-6038-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.352826,47.620933,0
+            -122.347725,47.620897,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.355106,47.614894,0
+            -122.347538,47.62089,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.347538,47.62089,0
+            -122.347249,47.62091,0
+            -122.331756,47.620823,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.357862,47.62958,0
+            -122.357862,47.632342,0
+            -122.358334,47.632342,0
+            -122.358162,47.643287,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.337137,47.624502,0
+            -122.337202,47.618385,0
+            -122.332352,47.61555,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.347569,47.620696,0
+            -122.347655,47.618165,0
+            -122.348062,47.61776,0
+            -122.338342,47.612075,0
+            -122.328901,47.601688,0
+            -122.328987,47.600053,0
+            -122.335735,47.600075,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.355106,47.614894,0
+            -122.341938,47.607536,0
+            -122.335972,47.601228,0
+            -122.335801,47.600012,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.325772,47.618426,0
+            -122.330622,47.618397,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.332893,47.601648,0
+            -122.332877,47.600881,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.332901,47.599109,0
+            -122.332869,47.598331,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.348352,47.636497,0
+            -122.355541,47.636615,0
+            -122.35567,47.637164,0
+            -122.358113,47.63713,0
+            -122.360988,47.637173,0
+            -122.360966,47.637752,0
+            -122.370322,47.637722,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.348352,47.638246,0
+            -122.348352,47.636497,0
+            -122.348437,47.635774,0
+            -122.348437,47.634848,0
+            -122.34818,47.633952,0
+            -122.348309,47.633157,0
+            -122.348373,47.631899,0
+            -122.348738,47.631479,0
+            -122.350283,47.630308,0
+            -122.351634,47.629411,0
+            -122.352686,47.629006,0
+            -122.353136,47.628934,0
+            -122.354724,47.62892,0
+            -122.355454,47.629267,0
+            -122.355647,47.629585,0
+            -122.366569,47.629599,0
+            -122.36747,47.630322,0
+            -122.367835,47.631364,0
+            -122.367685,47.634545,0
+            -122.367256,47.634733,0
+            -122.366376,47.634747,0
+            -122.366204,47.635138,0
+            -122.366204,47.639605,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.348284,47.638313,0
+            -122.348263,47.640373,0
+            -122.348349,47.640597,0
+            -122.348692,47.640764,0
+            -122.350194,47.640792,0
+            -122.350484,47.640648,0
+            -122.350859,47.640077,0
+            -122.351203,47.63994,0
+            -122.353123,47.639961,0
+            -122.355584,47.639911,0
+            -122.355584,47.639535,0
+            -122.356271,47.639535,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.340146,47.628679,0
+            -122.340747,47.63053,0
+            -122.34006,47.633827,0
+            -122.34006,47.63802,0
+            -122.342206,47.641548,0
+            -122.344652,47.644237,0
+            -122.349635,47.645916,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert parking lane</name>
+        <styleUrl>#line-0288D1-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.411892,47.654155,0
+            -122.412321,47.652854,0
+            -122.411634,47.6519,0
+            -122.411806,47.651524,0
+            -122.413265,47.651178,0
+            -122.41408,47.650599,0
+            -122.414381,47.649963,0
+            -122.414252,47.645366,0
+            -122.412879,47.644383,0
+            -122.412793,47.64395,0
+            -122.413952,47.643169,0
+            -122.414381,47.642504,0
+            -122.41348,47.641463,0
+            -122.406012,47.636403,0
+            -122.404382,47.635217,0
+            -122.402794,47.634147,0
+            -122.400605,47.63354,0
+            -122.399876,47.634292,0
+            -122.399575,47.635622,0
+            -122.398888,47.635911,0
+            -122.398202,47.635853,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Connection via existing trail/PBL</name>
+        <styleUrl>#line-BDBDBD-6038-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.332924,47.600689,0
+            -122.332901,47.599109,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert travel lane</name>
+        <styleUrl>#line-9C27B0-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.349635,47.650368,0
+            -122.349635,47.645916,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Convert to local access only</name>
+        <styleUrl>#line-0F9D58-5456-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.332973,47.620872,0
+            -122.332995,47.623128,0
+            -122.331718,47.623106,0
+            -122.331654,47.620814,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Additional information</name>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.39766,47.584958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3956,47.531686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.374455,47.563179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.384734,47.576586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.374303,47.542042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.365784,47.5302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.324915,47.523882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.31208,47.56432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.282093,47.546879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.266095,47.52457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.292948,47.57677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.258816,47.514771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.28869,47.529172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.263263,47.499461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.274813,47.525094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.26771,47.512968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.324988,47.524253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stairs</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.320385,47.524768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Construct temporary pathway</name>
+        <styleUrl>#line-01579B-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.286564,47.535383,0
+            -122.287723,47.537469,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.270019,47.523278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.287651,47.537532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.300403,47.546454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.304492,47.5596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.316872,47.594524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.296508,47.575945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.279565,47.564109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.320264,47.526468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.256209,47.550172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Construct temporary pathway</name>
+        <styleUrl>#line-01579B-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.297023,47.588985,0
+            -122.297356,47.590259,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.276417,47.523379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.296132,47.538984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.287834,47.582935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.309439,47.613252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.305364,47.622412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2993,47.591151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.317432,47.631905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.315522,47.601396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.294086,47.639192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.319663,47.617628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.318202,47.624732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.35503,47.724533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.306856,47.723877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.293659,47.708144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.341231,47.694931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.295504,47.683007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.375327,47.676896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.370775,47.711252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.402704,47.692883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.328031,47.680172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.335594,47.646278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.346237,47.669056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.255085,47.679864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Need intersection treatment?</name>
+        <styleUrl>#icon-1541-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.264614,47.523299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3589064,47.6368248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School meal pickup location</name>
+        <styleUrl>#icon-1578-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3996831,47.6422055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park currently experiencing overcrowding</name>
+        <styleUrl>#icon-1595-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4125241,47.6574581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
