@@ -88,22 +88,4 @@ LEFT JOIN sng.route_intersections i ON i.route_id = r.ogc_fid AND i.district = r
 GROUP BY r.district, wkb_geometry, "name", "description";
 
 
--- and make some individual views
-CREATE VIEW sng.d1_routes_tagged AS
-SELECT wkb_geometry, "name", "description", route_length, n_intersections
-FROM sng.routes_tagged WHERE district = 1;
-CREATE VIEW sng.d2_routes_tagged AS
-SELECT wkb_geometry, "name", "description", route_length, n_intersections
-FROM sng.routes_tagged WHERE district = 2;
-CREATE VIEW sng.d3_routes_tagged AS
-SELECT wkb_geometry, "name", "description", route_length, n_intersections
-FROM sng.routes_tagged WHERE district = 3;
-CREATE VIEW sng.d456_routes_tagged AS
-SELECT wkb_geometry, "name", "description", route_length, n_intersections
-FROM sng.routes_tagged WHERE district = 456;
-CREATE VIEW sng.d7_routes_tagged AS
-SELECT wkb_geometry, "name", "description", route_length, n_intersections
-FROM sng.routes_tagged WHERE district = 7;
-
-
 -- export from qgis
