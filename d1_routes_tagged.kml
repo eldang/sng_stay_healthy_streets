@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="d1_routes_tagged" name="d1_routes_tagged">
+      <SimpleField name="district" type="int"/>
+      <SimpleField name="route_length" type="float"/>
+      <SimpleField name="n_intersections" type="float"/>
+    </Schema>
+    <Schema id="d1_routes_tagged.schema">
+      <SimpleField name="district" type="int"/>
+      <SimpleField name="route_length" type="float"/>
+      <SimpleField name="n_intersections" type="float"/>
+    </Schema>
+    <Document id="d1_routes_tagged">
+      <name>d1_routes_tagged</name>
+      <Placemark id="d1_routes_tagged.1">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.53281863016246</SimpleData>
+            <SimpleData name="n_intersections">33</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.347866,47.517415,0
+            -122.347994,47.533324,0
+            -122.349325,47.533266,0
+            -122.349196,47.535468,0
+            -122.353879,47.535447,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.2">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.3049710322558</SimpleData>
+            <SimpleData name="n_intersections">31</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.375258,47.533682,0
+            -122.375322,47.531943,0
+            -122.371288,47.531885,0
+            -122.371438,47.517468,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.3">
+        <name>Convert to local access only</name>
+        <description>Concord elementary to Stay Healthy Streets and South Park East. No sidewalks on S Henderson so people already walk/roll in street. 8th Ave and Trenton have become a Dump traffic route for avoiding arterial slowdowns related to WS bridge detour.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.201546044011895</SimpleData>
+            <SimpleData name="n_intersections">10</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.3213622,47.5230734,0
+            -122.325669,47.523098,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.4">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.20281112567811</SimpleData>
+            <SimpleData name="n_intersections">59</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.38544,47.564737,0
+            -122.385568,47.573177,0
+            -122.383466,47.573148,0
+            -122.383273,47.579344,0
+            -122.385268,47.579315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.5">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.29123373901315</SimpleData>
+            <SimpleData name="n_intersections">7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.363117,47.550108,0
+            -122.361664,47.550103,0
+            -122.359669,47.546453,0
+            -122.359669,47.539138,0
+            -122.35718,47.539124,0
+            -122.357265,47.536878,0
+            -122.356986,47.535546,0
+            -122.355184,47.535473,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.6">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.661593906354208</SimpleData>
+            <SimpleData name="n_intersections">13</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.322925,47.528171,0
+            -122.320264,47.528156,0
+            -122.320146,47.530518,0
+            -122.317668,47.530431,0
+            -122.317571,47.529004,0
+            -122.315361,47.528366,0
+            -122.314835,47.528518,0
+            -122.314427,47.528439,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.7">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.31266764214144</SimpleData>
+            <SimpleData name="n_intersections">42</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.355184,47.535473,0
+            -122.353879,47.535447,0
+            -122.3539,47.531811,0
+            -122.356432,47.531869,0
+            -122.356454,47.519104,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.8">
+        <name>Convert travel lane</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.19234053845479</SimpleData>
+            <SimpleData name="n_intersections">151</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.376173,47.564918,0
+            -122.373899,47.566177,0
+            -122.372783,47.569478,0
+            -122.372139,47.570723,0
+            -122.370894,47.571317,0
+            -122.36935,47.571317,0
+            -122.361518,47.571404,0
+            -122.358664,47.571245,0
+            -122.360509,47.571172,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.9">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.391668368247752</SimpleData>
+            <SimpleData name="n_intersections">19</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.356358,47.524741,0
+            -122.349266,47.524675,0
+            -122.347989,47.524654,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.10">
+        <name>Convert to local access only</name>
+        <description>existing Stay Healthy Street</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">2.00603873739075</SimpleData>
+            <SimpleData name="n_intersections">81</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.375056,47.546587,0
+            -122.370314,47.547065,0
+            -122.369134,47.547456,0
+            -122.368018,47.544299,0
+            -122.368662,47.543662,0
+            -122.370958,47.542821,0
+            -122.375142,47.542821,0
+            -122.375035,47.546457,0
+            -122.375228,47.533811,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.11">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.37666201680876</SimpleData>
+            <SimpleData name="n_intersections">46</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.375056,47.546587,0
+            -122.377792,47.546516,0
+            -122.380549,47.546588,0
+            -122.380334,47.552034,0
+            -122.385645,47.552085,0
+            -122.385506,47.559246,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.12">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">1.37296611678771</SimpleData>
+            <SimpleData name="n_intersections">26</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.36537,47.568288,0
+            -122.365563,47.556197,0
+            -122.365563,47.551969,0
+            -122.365585,47.550086,0
+            -122.363117,47.550108,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.13">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.196281496984904</SimpleData>
+            <SimpleData name="n_intersections">12</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.371307,47.530098,0
+            -122.367112,47.530106,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.14">
+        <name>Convert parking lane</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">2.5054631989484</SimpleData>
+            <SimpleData name="n_intersections">24</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.396401,47.540528,0
+            -122.396486,47.540629,0
+            -122.396401,47.540528,0
+            -122.396486,47.540629,0
+            -122.396486,47.542918,0
+            -122.398182,47.544873,0
+            -122.398268,47.545583,0
+            -122.398718,47.546293,0
+            -122.39874,47.546742,0
+            -122.397903,47.548118,0
+            -122.397752,47.54916,0
+            -122.397752,47.550189,0
+            -122.398182,47.550855,0
+            -122.398053,47.552318,0
+            -122.398053,47.55281,0
+            -122.399061,47.553592,0
+            -122.399448,47.554765,0
+            -122.400048,47.556112,0
+            -122.403117,47.559935,0
+            -122.40419,47.561223,0
+            -122.40625,47.562715,0
+            -122.406851,47.564394,0
+            -122.407344,47.565147,0
+            -122.408803,47.566248,0
+            -122.409554,47.567319,0
+            -122.409511,47.568144,0
+            -122.409254,47.568521,0
+            -122.409211,47.569129,0
+            -122.410198,47.5702,0
+            -122.410777,47.571069,0
+            -122.411636,47.571575,0
+            -122.413474,47.572596,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.15">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.715362421776125</SimpleData>
+            <SimpleData name="n_intersections">12</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.41343,47.578359,0
+            -122.419096,47.576722,0
+            -122.419074,47.575086,0
+            -122.413881,47.572669,0
+            -122.413474,47.572596,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.16">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.716953201742394</SimpleData>
+            <SimpleData name="n_intersections">8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.359594,47.546861,0
+            -122.360194,47.557231,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="d1_routes_tagged.17">
+        <name>Convert to local access only</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1_routes_tagged.schema">
+            <SimpleData name="district">1</SimpleData>
+            <SimpleData name="route_length">0.836708567786196</SimpleData>
+            <SimpleData name="n_intersections">18</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -122.360213,47.559719,0
+            -122.360471,47.563064,0
+            -122.360213,47.564787,0
+            -122.360106,47.568378,0
+            -122.361222,47.568334,0
+            -122.361093,47.570709,0
+            -122.360857,47.570969,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

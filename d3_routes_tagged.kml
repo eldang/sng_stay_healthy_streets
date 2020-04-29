@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d3_routes_tagged" id="d3_routes_tagged">
+	<SimpleField name="district" type="int"></SimpleField>
+	<SimpleField name="route_length" type="float"></SimpleField>
+	<SimpleField name="n_intersections" type="float"></SimpleField>
+</Schema>
+<Folder><name>d3_routes_tagged</name>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 25
+route_length: 0.456310458476008
+n_intersections: 20</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.456379131084501</SimpleData>
+		<SimpleData name="n_intersections">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.31428,47.618791 -122.31371,47.61878 -122.313345,47.618519 -122.304676,47.618505</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 10
+route_length: 1.28498433067361
+n_intersections: 44</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">1.28493541862361</SimpleData>
+		<SimpleData name="n_intersections">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.327608,47.627752 -122.327887,47.626321 -122.32793,47.625005 -122.327865,47.618033 -122.327908,47.614063 -122.3241,47.609897</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 19
+route_length: 0.747052212499352
+n_intersections: 21</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.755891650894837</SimpleData>
+		<SimpleData name="n_intersections">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312905,47.601712 -122.312948,47.6008 -122.309086,47.6008 -122.308914,47.597552 -122.304859,47.597462 -122.304795,47.59604</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>description:
+ogc_fid: 20
+route_length: 0.900042873322999
+n_intersections: 27</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.903544924908919</SimpleData>
+		<SimpleData name="n_intersections">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312756,47.601675 -122.314115,47.601683 -122.314251,47.608736 -122.314208,47.613842</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description: Uses existing NGW
+ogc_fid: 1
+route_length: 3.38806187378379
+n_intersections: 98</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">3.3882245158413</SimpleData>
+		<SimpleData name="n_intersections">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.301322,47.590569 -122.301536,47.59109 -122.301193,47.591408 -122.301279,47.59219 -122.29909,47.592074 -122.299047,47.592971 -122.300163,47.593043 -122.30012,47.595576 -122.299862,47.599367 -122.299906,47.607816 -122.30012,47.608221 -122.30012,47.60906 -122.303897,47.609046 -122.303467,47.617132 -122.303897,47.617218 -122.303854,47.618115 -122.304884,47.618723 -122.304755,47.624306 -122.304669,47.63064 -122.306128,47.630668 -122.306128,47.632288 -122.307373,47.632346</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 28
+route_length: 0
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.325333,47.623182</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 26
+route_length: 1.07579659252687
+n_intersections: 22</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">1.07573912399146</SimpleData>
+		<SimpleData name="n_intersections">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.284914,47.602822 -122.288197,47.601462 -122.288218,47.6011 -122.287618,47.600912 -122.287746,47.600666 -122.28839,47.600492 -122.288454,47.600217 -122.288283,47.59961 -122.288433,47.599277 -122.28869,47.599074 -122.289141,47.599074 -122.28972,47.599248 -122.290235,47.599407 -122.290707,47.599349 -122.290664,47.599016 -122.2903,47.598134 -122.289742,47.597685 -122.28942,47.597338 -122.289162,47.596918 -122.289055,47.59673 -122.289055,47.596354 -122.289162,47.594907 -122.289227,47.594342 -122.289248,47.593923 -122.289205,47.593156 -122.289141,47.592302 -122.289055,47.591593 -122.289078,47.591165</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>description:
+ogc_fid: 9
+route_length: 0.629979051245946
+n_intersections: 23</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.630002231844533</SimpleData>
+		<SimpleData name="n_intersections">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.322458,47.6358 -122.322244,47.633342 -122.323918,47.631867 -122.324175,47.630912 -122.327566,47.627847</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 23
+route_length: 0.0321935397071729
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.0321576823138878</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.320138,47.618748 -122.320826,47.618731</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<description>description:
+ogc_fid: 5
+route_length: 0.476601091214157
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.476553459194744</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.302476,47.635695 -122.303185,47.636087 -122.303539,47.635871 -122.304216,47.6359 -122.305525,47.635221 -122.305825,47.636002 -122.306748,47.636016 -122.307456,47.636392 -122.308443,47.635727 -122.30855,47.636218 -122.308851,47.6371</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<description>description:
+ogc_fid: 12
+route_length: 0.673474218303691
+n_intersections: 17</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.673427916636277</SimpleData>
+		<SimpleData name="n_intersections">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.288657,47.590952 -122.288614,47.590272 -122.294665,47.590474 -122.295996,47.590561 -122.296875,47.590272 -122.297841,47.590315 -122.298635,47.589809 -122.299729,47.589794 -122.300437,47.5902 -122.301338,47.590402</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<description>description:
+ogc_fid: 3
+route_length: 4.46295199901356
+n_intersections: 72</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">4.46298934737645</SimpleData>
+		<SimpleData name="n_intersections">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.287254,47.585509 -122.286181,47.587969 -122.28601,47.589214 -122.287168,47.59179 -122.287769,47.592918 -122.287598,47.596189 -122.285881,47.600008 -122.283778,47.603973 -122.283006,47.608342 -122.282534,47.611351 -122.281117,47.612971 -122.281332,47.614476 -122.281117,47.615575 -122.281761,47.616645 -122.281375,47.617947 -122.281375,47.619336 -122.281375,47.620348 -122.282877,47.621447 -122.283864,47.622084 -122.284508,47.621563 -122.284465,47.622488 -122.285838,47.622662 -122.288713,47.624079 -122.29073,47.6246 -122.291675,47.625005 -122.292619,47.626075 -122.292876,47.627232 -122.293305,47.627753 -122.29588,47.628649 -122.297211,47.631136 -122.297082,47.632814 -122.297897,47.633971 -122.298326,47.635214 -122.297897,47.63747 -122.29691,47.637961 -122.296567,47.640419 -122.298541,47.641287</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description: mostly on existing NGW
+ogc_fid: 2
+route_length: 1.35445652632781
+n_intersections: 57</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">1.35442692567475</SimpleData>
+		<SimpleData name="n_intersections">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.290436,47.610445 -122.290372,47.609158 -122.293655,47.609274 -122.293698,47.60897 -122.304577,47.609013 -122.306315,47.608999 -122.306358,47.609216 -122.316765,47.60923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 14
+route_length: 1.62134917107111
+n_intersections: 46</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">1.62147173911456</SimpleData>
+		<SimpleData name="n_intersections">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312627,47.632226 -122.313528,47.631778 -122.315824,47.631894 -122.315224,47.63039 -122.314623,47.629566 -122.314086,47.629059 -122.314666,47.628698 -122.314558,47.62825 -122.314687,47.621192 -122.314322,47.621149 -122.31428,47.618791 -122.320138,47.618748 -122.320052,47.615305</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 15
+route_length: 0.230866252747293
+n_intersections: 10</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.230914766826256</SimpleData>
+		<SimpleData name="n_intersections">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.318143,47.615342 -122.318229,47.618684</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 4
+route_length: 0.637417642481492
+n_intersections: 29</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.637426005892793</SimpleData>
+		<SimpleData name="n_intersections">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.298613,47.641117 -122.298914,47.641001 -122.303806,47.640972 -122.303806,47.639469 -122.303441,47.639238 -122.30284,47.637792 -122.302368,47.63678 -122.302325,47.635623 -122.302476,47.635695</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>description:
+ogc_fid: 16
+route_length: 0.27266364302387
+n_intersections: 14</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.272690673605477</SimpleData>
+		<SimpleData name="n_intersections">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.319998,47.615306 -122.316843,47.615276 -122.314161,47.615303</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<description>description:
+ogc_fid: 24
+route_length: 0.527424838441741
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.527438939777119</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.304795,47.59604 -122.304648,47.595679 -122.304691,47.594536 -122.304369,47.593957 -122.30439,47.593147 -122.304262,47.59264 -122.304219,47.592033 -122.303575,47.592062 -122.303489,47.591627 -122.303725,47.591266 -122.302288,47.590745 -122.302266,47.590209 -122.301338,47.590402</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 17
+route_length: 1.1524093224337
+n_intersections: 43</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">1.15246999685936</SimpleData>
+		<SimpleData name="n_intersections">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.327924,47.624271 -122.325338,47.624242 -122.325333,47.623182 -122.323075,47.623164 -122.319963,47.623106 -122.312689,47.623164 -122.304814,47.623193</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 21
+route_length: 0.3177814138297
+n_intersections: 15</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.317801961886292</SimpleData>
+		<SimpleData name="n_intersections">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.314187,47.614074 -122.314251,47.618674</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<description>description:
+ogc_fid: 18
+route_length: 0.227021002529069
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.227011582588798</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.33064,47.61842 -122.327614,47.61842 -122.32578,47.618427</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 11
+route_length: 0.760122034078898
+n_intersections: 13</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.760059066721255</SimpleData>
+		<SimpleData name="n_intersections">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.28749,47.585564 -122.287683,47.58594 -122.28719,47.586288 -122.287276,47.586577 -122.28779,47.586649 -122.288584,47.586346 -122.290065,47.586809 -122.290237,47.586592 -122.289464,47.586317 -122.28955,47.586085 -122.290129,47.586056 -122.290601,47.586447 -122.290601,47.586896 -122.290001,47.587069 -122.289443,47.587142 -122.289078,47.591165 -122.288563,47.591165 -122.288627,47.591049</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 8
+route_length: 0.624142414491391
+n_intersections: 21</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.624161860040762</SimpleData>
+		<SimpleData name="n_intersections">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.317967,47.642484 -122.317988,47.641349 -122.321422,47.641367 -122.321776,47.641255 -122.322216,47.640811 -122.322323,47.639629 -122.322452,47.637962 -122.322419,47.63677 -122.322462,47.636036</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>description:
+ogc_fid: 22
+route_length: 0.2371274969014
+n_intersections: 16</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.237128242683212</SimpleData>
+		<SimpleData name="n_intersections">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.32578,47.618427 -122.323364,47.618446 -122.322913,47.618692 -122.320832,47.618692</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 7
+route_length: 0.637859496359594
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.637736042810403</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.30978,47.637333 -122.310381,47.636654 -122.311003,47.636524 -122.311089,47.636827 -122.31111,47.637492 -122.310874,47.63797 -122.311261,47.63849 -122.311668,47.63875 -122.312591,47.638664 -122.313127,47.638678 -122.314007,47.638982 -122.314522,47.639488 -122.314994,47.639994 -122.315616,47.640456 -122.31581,47.641006 -122.315938,47.64141 -122.316196,47.641728 -122.316732,47.641815 -122.31714,47.642032</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>description:
+ogc_fid: 13
+route_length: 0.230539131182526
+n_intersections: 15</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.23057683800116</SimpleData>
+		<SimpleData name="n_intersections">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.307532,47.632298 -122.312468,47.632385</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>description:
+ogc_fid: 6
+route_length: 0.561504575241147
+n_intersections: 2</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d3_routes_tagged">
+		<SimpleData name="district">3</SimpleData>
+		<SimpleData name="route_length">0.561551514142905</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.308875,47.637202 -122.309305,47.637563 -122.309498,47.637418 -122.309176,47.636956 -122.308832,47.636435 -122.308983,47.636059 -122.309068,47.635814 -122.308983,47.635018 -122.308897,47.634758 -122.308489,47.634787 -122.308103,47.635076 -122.307867,47.635438 -122.307524,47.63525 -122.307288,47.634772 -122.307223,47.634512 -122.307395,47.634238 -122.307395,47.633977 -122.307845,47.633659 -122.308275,47.633341 -122.308232,47.632994 -122.307867,47.632618 -122.307524,47.632387</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

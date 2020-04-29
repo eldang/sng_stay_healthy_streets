@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d2_routes_tagged" id="d2_routes_tagged">
+	<SimpleField name="district" type="int"></SimpleField>
+	<SimpleField name="route_length" type="float"></SimpleField>
+	<SimpleField name="n_intersections" type="float"></SimpleField>
+</Schema>
+<Folder><name>d2_routes_tagged</name>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.12330377875812</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.322862,47.528199 -122.320228,47.528145</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.383414554949565</SimpleData>
+		<SimpleData name="n_intersections">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.314962,47.527364 -122.317548,47.528212 -122.322869,47.528197</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.157399422259016</SimpleData>
+		<SimpleData name="n_intersections">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.321844,47.545994 -122.318572,47.545462</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.5003836428723</SimpleData>
+		<SimpleData name="n_intersections">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.264435,47.543955 -122.264606,47.541754 -122.267182,47.53961 -122.267353,47.53567 -122.266237,47.530222 -122.266237,47.52773 -122.264606,47.526339 -122.264614,47.523299</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.899918723762018</SimpleData>
+		<SimpleData name="n_intersections">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.279638,47.569852 -122.279467,47.563771 -122.27981,47.563192 -122.280582,47.562728 -122.282986,47.56186 -122.28496,47.561802 -122.284874,47.56073 -122.286891,47.560788</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.395119612314531</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312622,47.567242 -122.312443,47.571489 -122.311478,47.571778 -122.310362,47.571822</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>uses existing NGW (except for northernmost few blocks)</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">3.96909964531895</SimpleData>
+		<SimpleData name="n_intersections">158</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.283469,47.544648 -122.283382,47.550775 -122.284862,47.5505 -122.285216,47.55189 -122.286192,47.553418 -122.286107,47.555489 -122.286171,47.557878 -122.283446,47.557856 -122.283435,47.559529 -122.284969,47.559449 -122.284948,47.560694 -122.284916,47.562845 -122.285495,47.562845 -122.286064,47.562852 -122.286117,47.566139 -122.286171,47.567992 -122.287233,47.567934 -122.287244,47.569794 -122.288263,47.56978 -122.288242,47.571524 -122.287823,47.571575 -122.287759,47.573522 -122.28822,47.573754 -122.289937,47.573783 -122.289776,47.579652 -122.291922,47.579652 -122.291879,47.58097 -122.294228,47.58097 -122.294089,47.582931 -122.296449,47.582909 -122.296417,47.586231 -122.296964,47.586368 -122.296996,47.588937</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">2.63039205555241</SimpleData>
+		<SimpleData name="n_intersections">116</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.283815,47.521686 -122.287283,47.524708 -122.287806,47.526217 -122.287987,47.530913 -122.289584,47.534335 -122.298563,47.54077 -122.299679,47.54413 -122.300752,47.547462 -122.303364,47.555984</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<description>preferred route to access local businesses and provide additional pedestrian space outside of takeout locations.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.269829519434769</SimpleData>
+		<SimpleData name="n_intersections">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.311684,47.578599 -122.30976,47.576804 -122.309231,47.575154</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.288020352653967</SimpleData>
+		<SimpleData name="n_intersections">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.293293,47.560814 -122.287134,47.560771</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.40604730434562</SimpleData>
+		<SimpleData name="n_intersections">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.31722,47.553497 -122.317134,47.560679 -122.316833,47.561664 -122.316104,47.561693 -122.316018,47.565341 -122.314773,47.56537 -122.314773,47.567224 -122.312622,47.567242 -122.312934,47.563379</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.79680358780436</SimpleData>
+		<SimpleData name="n_intersections">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.288192,47.578018 -122.288407,47.577063 -122.289351,47.576831 -122.290381,47.576657 -122.290982,47.576165 -122.292054,47.576252 -122.292956,47.57657 -122.293642,47.57657 -122.294029,47.575934 -122.295874,47.575847 -122.297762,47.575847 -122.299093,47.57576 -122.299393,47.574052 -122.299093,47.572112 -122.299178,47.570346 -122.29935,47.56884 -122.299307,47.567392 -122.299779,47.566581 -122.299865,47.565713 -122.299908,47.564989 -122.301153,47.56412 -122.30214,47.563773 -122.302354,47.563193 -122.301582,47.562585 -122.301796,47.562035 -122.302998,47.561398 -122.304714,47.561224</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.673286645614635</SimpleData>
+		<SimpleData name="n_intersections">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.286262,47.539962 -122.286422,47.537188 -122.291444,47.538868 -122.296132,47.538984</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>uses existing NGW</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.9273944928676</SimpleData>
+		<SimpleData name="n_intersections">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.274156,47.523438 -122.274134,47.52609 -122.274735,47.526119 -122.274671,47.527727 -122.274521,47.52793 -122.274521,47.53061 -122.274499,47.531567 -122.275315,47.531552 -122.275336,47.53529 -122.276666,47.535174 -122.276731,47.537057 -122.276688,47.538882 -122.278212,47.538882 -122.278061,47.54065 -122.280872,47.54064 -122.280829,47.544604 -122.283469,47.544648</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Existing NGW</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.32447265776621</SimpleData>
+		<SimpleData name="n_intersections">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.264157,47.544348 -122.267225,47.544334 -122.267139,47.542451 -122.275352,47.542451 -122.275411,47.540655 -122.280872,47.54064 -122.28246,47.54064 -122.286258,47.540611 -122.286215,47.540104</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.03889802026877</SimpleData>
+		<SimpleData name="n_intersections">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312934,47.563379 -122.310637,47.561685 -122.304492,47.5596 -122.301475,47.560222 -122.298986,47.561265 -122.298101,47.561623 -122.297066,47.561663 -122.29478,47.56083 -122.293579,47.56083</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.34096762538134</SimpleData>
+		<SimpleData name="n_intersections">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.314812,47.58202 -122.314919,47.586955</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.10938068381881</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.25752,47.549842 -122.256598,47.549857 -122.256898,47.551132 -122.256426,47.551914 -122.255203,47.552319 -122.254388,47.552029 -122.25383,47.551522 -122.253036,47.551204 -122.25207,47.551146 -122.251233,47.551667 -122.250911,47.552594 -122.250525,47.552855 -122.250032,47.552927 -122.249366,47.552754 -122.248916,47.552565 -122.248916,47.55216 -122.249152,47.55187 -122.249173,47.551291 -122.249238,47.55074 -122.249796,47.550364 -122.250439,47.550031 -122.251426,47.549712 -122.252499,47.54977 -122.253422,47.550031 -122.253701,47.550335 -122.253851,47.550827 -122.253894,47.551436</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.611548844463503</SimpleData>
+		<SimpleData name="n_intersections">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.277682,47.523384 -122.264614,47.523299</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.274740207434877</SimpleData>
+		<SimpleData name="n_intersections">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.320159,47.530516 -122.317648,47.530487 -122.317548,47.528212</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>This street is only used by locals. It's a dead end unless you use the alley, so it's very calm already traffic wise.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.113578718536031</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.322476,47.524914 -122.323013,47.525392 -122.32297,47.526435</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.212489151662314</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.317325,47.588391 -122.317325,47.586943 -122.314919,47.586955</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.30263380619098</SimpleData>
+		<SimpleData name="n_intersections">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.309396,47.589567 -122.309466,47.578726 -122.3086,47.5751 -122.310222,47.575064 -122.310362,47.571822</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.255317394630977</SimpleData>
+		<SimpleData name="n_intersections">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.304492,47.5596 -122.303364,47.555984</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.161193378658469</SimpleData>
+		<SimpleData name="n_intersections">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.319006,47.543956 -122.321139,47.544281 -122.32237,47.544462</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Alternate route to Beacon Ave business district. Would be beneficial if there were wayfinding pointing towards business district at McClellan.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.452690867849317</SimpleData>
+		<SimpleData name="n_intersections">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.31471,47.578657 -122.31466,47.577712 -122.31464,47.57676 -122.314662,47.575986 -122.310767,47.575971 -122.310724,47.575066 -122.310222,47.575064</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.365639266803923</SimpleData>
+		<SimpleData name="n_intersections">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.320435,47.523006 -122.320174,47.524738 -122.320452,47.524868 -122.32041,47.525187 -122.320238,47.525317 -122.320228,47.528145</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.6617871152875</SimpleData>
+		<SimpleData name="n_intersections">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.316872,47.594524 -122.315533,47.594632 -122.313516,47.59359 -122.311584,47.590725 -122.309396,47.589567 -122.305962,47.589792 -122.302443,47.589524 -122.302352,47.590255 -122.301918,47.59032 -122.300303,47.590204 -122.29956,47.5899 -122.298645,47.589886 -122.296779,47.590349 -122.293646,47.590465 -122.288582,47.59032 -122.287884,47.590573 -122.288904,47.591145</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">2.30653414245987</SimpleData>
+		<SimpleData name="n_intersections">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.259824,47.551273 -122.260611,47.551113 -122.266619,47.551142 -122.287862,47.5512 -122.266619,47.551142</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.489837673872226</SimpleData>
+		<SimpleData name="n_intersections">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.257759,47.549621 -122.258746,47.549678 -122.259004,47.548882 -122.262287,47.546145 -122.264003,47.544421</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.559296077235189</SimpleData>
+		<SimpleData name="n_intersections">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.31902,47.547354 -122.321574,47.539445</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">3.68759382608928</SimpleData>
+		<SimpleData name="n_intersections">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.288266,47.578196 -122.288009,47.578862 -122.288202,47.579861 -122.287902,47.581829 -122.28792,47.58431 -122.287595,47.585401 -122.287908,47.5844 -122.287834,47.582935 -122.286206,47.582206 -122.285134,47.581337 -122.284125,47.579948 -122.282323,47.575808 -122.281207,47.574346 -122.280735,47.57339 -122.280713,47.572218 -122.280306,47.57106 -122.279533,47.570133 -122.276529,47.570017 -122.274662,47.569771 -122.272495,47.568048 -122.27213,47.5676 -122.270607,47.567686 -122.269856,47.567773 -122.268633,47.566716 -122.267903,47.565674 -122.268182,47.56466 -122.268804,47.56398 -122.267925,47.562489 -122.267131,47.561634 -122.264899,47.561359 -122.264084,47.560273 -122.263247,47.558275 -122.260951,47.554481 -122.260071,47.552439 -122.259824,47.551273 -122.258156,47.550777 -122.257604,47.549673</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.373888413350736</SimpleData>
+		<SimpleData name="n_intersections">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.314812,47.58202 -122.31471,47.578657 -122.311684,47.578599</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.726227159200505</SimpleData>
+		<SimpleData name="n_intersections">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.289097,47.591103 -122.289268,47.587674 -122.289526,47.587051 -122.290298,47.586979 -122.290663,47.586776 -122.290384,47.586212 -122.289719,47.586024 -122.289354,47.586284 -122.289934,47.586501 -122.29017,47.586574 -122.290148,47.586762 -122.289376,47.586646 -122.288775,47.586414 -122.287702,47.586574 -122.287251,47.586574 -122.287123,47.586299 -122.287595,47.585951 -122.287659,47.58572 -122.28753,47.58559 -122.287702,47.585532</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.592237354455426</SimpleData>
+		<SimpleData name="n_intersections">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.320812,47.550475 -122.322346,47.55117 -122.323794,47.551822 -122.322346,47.55117 -122.323009,47.550491 -122.323648,47.550765 -122.324556,47.551192 -122.321016,47.54957</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.955018976496177</SimpleData>
+		<SimpleData name="n_intersections">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.286437,47.535235 -122.285321,47.533642 -122.284978,47.533062 -122.284463,47.532859 -122.284119,47.53144 -122.283433,47.530715 -122.282918,47.530686 -122.28236,47.529208 -122.280901,47.527817 -122.279871,47.527035 -122.279484,47.526137 -122.278969,47.524543 -122.278154,47.524224 -122.277682,47.523384</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">0.425467533301889</SimpleData>
+		<SimpleData name="n_intersections">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.317325,47.588391 -122.31733,47.591545 -122.317287,47.593644 -122.317201,47.594078 -122.3166,47.594309</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Use existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d2_routes_tagged">
+		<SimpleData name="district">2</SimpleData>
+		<SimpleData name="route_length">1.55870792302149</SimpleData>
+		<SimpleData name="n_intersections">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.288239,47.538102 -122.289998,47.539811 -122.292187,47.543229 -122.29223,47.544301 -122.293646,47.545547 -122.29356,47.546416 -122.294299,47.546508 -122.296471,47.549595 -122.29584,47.550009 -122.296598,47.5501 -122.298136,47.551565 -122.297703,47.55195 -122.299246,47.553416 -122.299932,47.5547 -122.30079,47.5554 -122.303364,47.555984</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

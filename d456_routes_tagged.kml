@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d456_routes_tagged" id="d456_routes_tagged">
+	<SimpleField name="district" type="int"></SimpleField>
+	<SimpleField name="route_length" type="float"></SimpleField>
+	<SimpleField name="n_intersections" type="float"></SimpleField>
+</Schema>
+<Folder><name>d456_routes_tagged</name>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.444452942840156</SimpleData>
+		<SimpleData name="n_intersections">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.30379,47.66929 -122.306279,47.669188 -122.307802,47.669694 -122.30791,47.670431 -122.308511,47.670402 -122.30924,47.670055 -122.310935,47.670446 -122.311815,47.670691</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>N 127th connector</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.171105631061008</SimpleData>
+		<SimpleData name="n_intersections">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.3516373,47.7214043 -122.3553067,47.7214627</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.128046630335957</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.301916,47.721103 -122.3018912,47.7192496</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.24713090888225</SimpleData>
+		<SimpleData name="n_intersections">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.320323,47.703228 -122.320967,47.721275</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.04579420939229</SimpleData>
+		<SimpleData name="n_intersections">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.31559,47.656234 -122.31544,47.661278 -122.315332,47.662275 -122.315247,47.662694 -122.315161,47.670093 -122.315139,47.671364</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Bus access for Compass Housing and to Greenwood School and Bitter Lake Playfield</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.240070826547106</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.360814,47.725085 -122.355664,47.725057</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Close to vehicle traffic</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.467405098240422</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.260469,47.682113 -122.260126,47.681622 -122.260126,47.680958 -122.26107,47.680553 -122.260925,47.67922 -122.260694,47.678639 -122.260576,47.67736 -122.259482,47.675959</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<description>connect to Ship Canal Trail</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.347838454386458</SimpleData>
+		<SimpleData name="n_intersections">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.349923,47.651379 -122.349783,47.649556 -122.349697,47.646347</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>1st Ave NW Pleasant Walking route&lt;br&gt;2nd Ave extension to 1st Ave NW due to grade increase on 1st Ave NW</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.247335324159257</SimpleData>
+		<SimpleData name="n_intersections">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.358217,47.72509 -122.35827,47.72867</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Tangletown Traverse</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.0568176397812</SimpleData>
+		<SimpleData name="n_intersections">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.331024,47.66574 -122.328556,47.666463 -122.329522,47.667893 -122.328213,47.667908 -122.328213,47.670653 -122.328277,47.672337 -122.328277,47.673178 -122.32817,47.67402 -122.328148,47.675913 -122.327333,47.675913 -122.327183,47.677589 -122.327526,47.67834</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Olympic Hills Greenway extension: Avoids creating access problems for people in the neighborhood at 25th where greenway is. Recommend excluding the northern portion of the Greenway on 25th for Safe &amp; Healthy Street</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.243603192660632</SimpleData>
+		<SimpleData name="n_intersections">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.299223,47.73373 -122.299272,47.730204</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.53991440663032</SimpleData>
+		<SimpleData name="n_intersections">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.330245,47.651715 -122.330159,47.65991 -122.330095,47.664318 -122.334107,47.67043 -122.335288,47.670647 -122.33621,47.671023 -122.337605,47.672121</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.396249897814935</SimpleData>
+		<SimpleData name="n_intersections">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.344308,47.681053 -122.345081,47.680099 -122.345338,47.678452 -122.34581,47.676834 -122.346729,47.675643</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.843071403557725</SimpleData>
+		<SimpleData name="n_intersections">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.293411,47.693164 -122.293286,47.701148 -122.294187,47.701119 -122.294144,47.704729</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.0624829264298</SimpleData>
+		<SimpleData name="n_intersections">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.405491,47.672166 -122.406392,47.672513 -122.406478,47.675258 -122.40622,47.677743 -122.403903,47.681384 -122.402873,47.683146 -122.402744,47.686007 -122.402701,47.686729</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.8938734941861</SimpleData>
+		<SimpleData name="n_intersections">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.358105,47.695982 -122.372675,47.696069 -122.372922,47.696357 -122.373839,47.696097 -122.376945,47.696039</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Phinney Bus Access &amp; Walking route route:&lt;br&gt;Phinney Ave  is often used as a cut-through route to avoind Greenwood Ave and used to access bus stops on Greenwood Ave due to lack of sidewalks and right-of-way encroachment by parked cars along Greenwood Ave N.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.757031603970348</SimpleData>
+		<SimpleData name="n_intersections">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.354174,47.710397 -122.354217,47.721355</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.94038160697023</SimpleData>
+		<SimpleData name="n_intersections">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.364631,47.65896 -122.36394,47.658971 -122.36402,47.665052 -122.36329,47.665052 -122.363333,47.668693 -122.362861,47.668693 -122.362861,47.669416 -122.364031,47.669462 -122.363993,47.670933 -122.363988,47.675946 -122.363441,47.675946 -122.363532,47.679492 -122.363366,47.679601 -122.363248,47.684615</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">2.00461402842002</SimpleData>
+		<SimpleData name="n_intersections">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.363988,47.670871 -122.398352,47.670916 -122.399023,47.670442 -122.403843,47.670451 -122.404064,47.67057 -122.405076,47.671945 -122.405315,47.671991</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.798709022443289</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.402704,47.686839 -122.402682,47.687952 -122.401867,47.687923 -122.401652,47.688732 -122.40206,47.690595 -122.401888,47.690682 -122.400859,47.689107 -122.400322,47.68915 -122.39955,47.689902 -122.40103,47.692978 -122.401116,47.693787</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Close to vehicle traffic</name>
+	<description>Woodland Park access via underpass:&lt;br&gt;Important access to large parking lot where kids could ride bikes if parking lot was closed  to traffic at N 59th. Zoo parking lot is closed and un-necessarily being used as a cut-through route to Ballard.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.253992087104473</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.355372,47.670477 -122.354187,47.670494 -122.353208,47.670534 -122.352627,47.67076 -122.351516,47.670776 -122.351379,47.670885 -122.351392,47.671752</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Close to vehicle traffic</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.429889546424609</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.344669,47.665182 -122.344197,47.665904 -122.343425,47.666511 -122.344283,47.667465 -122.345227,47.667696 -122.34557,47.667061 -122.345871,47.666511 -122.345614,47.666006 -122.344669,47.665182</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>1st Ave NW Greenway Connector: 1st Ave NW offers walking connections to Phinney business district and connects to existing 1st Ave NW Greenway to access Greenwood business district.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.369123532947974</SimpleData>
+		<SimpleData name="n_intersections">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.357403,47.681806 -122.357403,47.67779 -122.355438,47.677789</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Corliss Walking Route</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.745843738036098</SimpleData>
+		<SimpleData name="n_intersections">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.331546,47.723223 -122.33161,47.734019</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.02120145217499</SimpleData>
+		<SimpleData name="n_intersections">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.288543,47.719263 -122.288672,47.726365 -122.288243,47.726365 -122.288414,47.733754</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.860319929343987</SimpleData>
+		<SimpleData name="n_intersections">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.349923,47.651379 -122.344773,47.650541 -122.337499,47.650483 -122.331641,47.650497</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.46345918664899</SimpleData>
+		<SimpleData name="n_intersections">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.299229,47.729107 -122.299229,47.729728 -122.299272,47.730204 -122.299057,47.721082 -122.301916,47.721103 -122.301933,47.722973 -122.307265,47.723002 -122.307318,47.726567</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Close to vehicle traffic</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.535561510392296</SimpleData>
+		<SimpleData name="n_intersections">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.346729,47.675643 -122.3466,47.675094 -122.345828,47.674343 -122.344626,47.673418 -122.344197,47.67284 -122.343854,47.671974 -122.343425,47.671164 -122.342738,47.670586 -122.341708,47.670297 -122.340206,47.669748</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>4th Ave NW Walking route: Used by people walking and exercising. Traffic cuts-through to avoid Greenwood Ave N</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.865630138905292</SimpleData>
+		<SimpleData name="n_intersections">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.362254,47.726658 -122.362254,47.714128</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">2.42676344359834</SimpleData>
+		<SimpleData name="n_intersections">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.335152,47.701436 -122.35809,47.701451 -122.357961,47.681808</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Disrupt cut-through traffic in favor of walking and biking.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.61694108956694</SimpleData>
+		<SimpleData name="n_intersections">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.344781,47.69788 -122.358009,47.697842</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.932941424689424</SimpleData>
+		<SimpleData name="n_intersections">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.344617,47.65919 -122.335052,47.659211 -122.335052,47.660281 -122.326212,47.660252</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">2.18283237887757</SimpleData>
+		<SimpleData name="n_intersections">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.2856,47.666668 -122.28575,47.666972 -122.285793,47.671336 -122.285772,47.674774 -122.285798,47.67576 -122.285954,47.675764 -122.286116,47.68119 -122.286363,47.681184 -122.286429,47.683022 -122.286217,47.682998 -122.286392,47.688415 -122.287424,47.688429 -122.287516,47.690162 -122.288,47.690161 -122.287916,47.693078 -122.293411,47.693164</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Phinney Ave N walking route: &lt;br&gt;Important due to proximity to Greenwood Ave N , widely used by people walking. Important to closed in tandem with Evanston Ave N to prevent increased traffic  on both streets avoiding Greenwood Ave.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.316015432942741</SimpleData>
+		<SimpleData name="n_intersections">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.354177,47.710563 -122.354149,47.708732 -122.350086,47.708662</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.99194958136309</SimpleData>
+		<SimpleData name="n_intersections">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.40038,47.684916 -122.39832,47.684916 -122.366112,47.685033 -122.366016,47.684686 -122.358108,47.684743</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Neighborhood walking route with Olympic views</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.63033115805715</SimpleData>
+		<SimpleData name="n_intersections">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.36636,47.716041 -122.366317,47.725165</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Walking route to Peak Park: Greenwood Ave is narrow and has narrow sidewalks that make it difficult to distance oneself from others. People walk here because the gardens are beautiful , it is relatively flat, has stunning sunset views, accesses Woodland Park via underpass at Phinney Ave N, and traffic is light.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.07014517292473</SimpleData>
+		<SimpleData name="n_intersections">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.355341,47.677782 -122.355374,47.662913 -122.355406,47.662292</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">2.13827272340624</SimpleData>
+		<SimpleData name="n_intersections">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.37887,47.694725 -122.378827,47.694248 -122.37902,47.693923 -122.378859,47.66553 -122.380887,47.664473</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>127th Connector: Connector to other route to form loop walk</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.293085677916901</SimpleData>
+		<SimpleData name="n_intersections">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.3559166,47.7214164 -122.3622036,47.721431</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert travel lane</name>
+	<description>Close westernmost lane to vehicle traffic.&lt;br&gt;Connect with the Ship Canal Trail and the Nickerson bike lane</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.725651904990369</SimpleData>
+		<SimpleData name="n_intersections">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.378829,47.654001 -122.376378,47.654095 -122.376447,47.66294</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.32615643770541</SimpleData>
+		<SimpleData name="n_intersections">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.2861011,47.6776383 -122.3108632,47.6776094 -122.3109061,47.6794442 -122.3118503,47.6794586</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert parking lane</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">2.2655130741114</SimpleData>
+		<SimpleData name="n_intersections">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.339888,47.669841 -122.339588,47.671459 -122.338343,47.672008 -122.336541,47.672702 -122.334395,47.674811 -122.332807,47.675765 -122.332292,47.67721 -122.331262,47.678366 -122.329202,47.678394 -122.32697,47.678423 -122.325855,47.679435 -122.325597,47.680012 -122.327013,47.681399 -122.329245,47.682353 -122.332206,47.682671 -122.333365,47.682815 -122.335253,47.684722 -122.33727,47.685733 -122.338815,47.6853 -122.339545,47.684058 -122.34036,47.682728 -122.342377,47.681833 -122.344222,47.681313</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.66546637486129</SimpleData>
+		<SimpleData name="n_intersections">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.3497,47.708706 -122.350086,47.708662 -122.349958,47.695334 -122.349872,47.684819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>Olympic Hills Greenway: extension of Safe &amp; Healthy street along 27th Ave NE for more direct access to heart of Lake City. Exclude portion of Greenway that jogs over to 25th Ave NE.</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.117655158726906</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.299092,47.720989 -122.299071,47.719286</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>1st Ave NW Pleasant Walking Route</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.309698953319255</SimpleData>
+		<SimpleData name="n_intersections">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.35827,47.72867 -122.359587,47.728689 -122.35963,47.732283</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.127015832957309</SimpleData>
+		<SimpleData name="n_intersections">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.301933,47.722973 -122.299209,47.7229307</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<description>SDOT construction for NGW should start soon https://www.seattle.gov/transportation/projects-and-programs/programs/greenways-program/northgate</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.16850545007801</SimpleData>
+		<SimpleData name="n_intersections">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.314855,47.691816 -122.31507,47.703167 -122.32331,47.703167</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">3.38966437896599</SimpleData>
+		<SimpleData name="n_intersections">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.401149,47.670436 -122.401106,47.681503 -122.400548,47.683121 -122.399304,47.68315 -122.399389,47.684999 -122.36643,47.685056 -122.365916,47.684623 -122.349872,47.684819</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">1.15641028831917</SimpleData>
+		<SimpleData name="n_intersections">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.339787,47.701379 -122.33955,47.695959 -122.336525,47.69597 -122.341846,47.695906 -122.341954,47.695638 -122.349958,47.695602</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Connection via existing trail/PBL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.899314639495256</SimpleData>
+		<SimpleData name="n_intersections">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.312196,47.670803 -122.319362,47.672537 -122.325413,47.67927</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Convert to local access only</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#d456_routes_tagged">
+		<SimpleData name="district">456</SimpleData>
+		<SimpleData name="route_length">0.903948386704417</SimpleData>
+		<SimpleData name="n_intersections">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-122.342799,47.648173 -122.346833,47.64878 -122.347606,47.648361 -122.349515,47.648564 -122.351597,47.649359 -122.35327,47.650038 -122.354257,47.650212 -122.354536,47.650298 -122.354515,47.650486 -122.357605,47.651917 -122.357755,47.652221 -122.359643,47.6529</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
