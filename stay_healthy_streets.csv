@@ -1,0 +1,154 @@
+district,name,description,route_length,n_intersections
+1,Convert parking lane,,2.505463199,24
+1,Convert to local access only,Concord elementary to Stay Healthy Streets and South Park East. No sidewalks on S Henderson so people already walk/roll in street. 8th Ave and Trenton have become a Dump traffic route for avoiding arterial slowdowns related to WS bridge detour.,0.201546044,10
+1,Convert to local access only,existing Stay Healthy Street,2.006038737,81
+1,Convert to local access only,,1.53281863,33
+1,Convert to local access only,,1.376662017,46
+1,Convert to local access only,,1.372966117,26
+1,Convert to local access only,,1.312667642,42
+1,Convert to local access only,,1.304971032,31
+1,Convert to local access only,,1.291233739,7
+1,Convert to local access only,,1.202811126,59
+1,Convert to local access only,,0.836708568,18
+1,Convert to local access only,,0.716953202,8
+1,Convert to local access only,,0.715362422,12
+1,Convert to local access only,,0.661593906,13
+1,Convert to local access only,,0.391668368,19
+1,Convert to local access only,,0.196281497,12
+1,Convert travel lane,,1.192340538,151
+2,Convert parking lane,,2.306534142,36
+2,Convert parking lane,,1.500383643,32
+2,Convert parking lane,,0.611548844,19
+2,Convert parking lane,,0.489837674,10
+2,Convert parking lane,,0.425467533,20
+2,Convert parking lane,,0.340967625,14
+2,Convert parking lane,,0.255317395,14
+2,Convert parking lane,preferred route to access local businesses and provide additional pedestrian space outside of takeout locations.,0.269829519,13
+2,Convert to local access only,Alternate route to Beacon Ave business district. Would be beneficial if there were wayfinding pointing towards business district at McClellan.,0.452690868,22
+2,Convert to local access only,Existing NGW,1.324472658,52
+2,Convert to local access only,,1.796803588,42
+2,Convert to local access only,,1.406047304,49
+2,Convert to local access only,,1.302633806,37
+2,Convert to local access only,,1.109380684,2
+2,Convert to local access only,,0.899918724,24
+2,Convert to local access only,,0.726227159,14
+2,Convert to local access only,,0.592237354,12
+2,Convert to local access only,,0.559296077,13
+2,Convert to local access only,,0.383414555,11
+2,Convert to local access only,,0.373888413,30
+2,Convert to local access only,,0.365639267,16
+2,Convert to local access only,,0.274740207,8
+2,Convert to local access only,,0.212489152,2
+2,Convert to local access only,,0.161193379,10
+2,Convert to local access only,,0.157399422,11
+2,Convert to local access only,,0.123303779,2
+2,Convert to local access only,"This street is only used by locals. It's a dead end unless you use the alley, so it's very calm already traffic wise.",0.113578719,2
+2,Convert to local access only,uses existing NGW,1.927394493,60
+2,Convert to local access only,uses existing NGW (except for northernmost few blocks),3.969099645,158
+2,Convert travel lane,,3.687593826,26
+2,Convert travel lane,,0.288020353,21
+2,Use existing trail/PBL,,2.630392056,116
+2,Use existing trail/PBL,,1.661787115,49
+2,Use existing trail/PBL,,1.558707923,60
+2,Use existing trail/PBL,,1.03889802,37
+2,Use existing trail/PBL,,0.955018976,37
+2,Use existing trail/PBL,,0.673286646,18
+2,Use existing trail/PBL,,0.395119612,2
+3,Convert parking lane,,0.230576838,15
+3,Convert parking lane,,0.272690674,14
+3,Convert parking lane,,0.903544925,27
+3,Convert parking lane,,0.237128243,16
+3,Convert parking lane,,0.630002232,23
+3,Convert to local access only,,1.284935419,44
+3,Convert to local access only,,0.760059067,13
+3,Convert to local access only,,1.621471739,46
+3,Convert to local access only,,0.230914767,10
+3,Convert to local access only,,1.152469997,43
+3,Convert to local access only,,0.755891651,21
+3,Convert to local access only,,0.317801962,15
+3,Convert to local access only,,0.032157682,2
+3,Convert to local access only,,0.456379131,20
+3,Convert to local access only,,1.075739124,22
+3,Convert to local access only,,0,2
+3,Convert to local access only,,0.637426006,29
+3,Convert to local access only,,0.561551514,2
+3,Convert to local access only,,0.637736043,2
+3,Convert to local access only,,0.62416186,21
+3,Convert to local access only,mostly on existing NGW,1.354426926,57
+3,Convert to local access only,Uses existing NGW,3.388224516,98
+3,Convert travel lane,,0.227011583,2
+3,Convert travel lane,,4.462989347,72
+3,Use existing trail/PBL,,0.673427917,17
+3,Use existing trail/PBL,,0.52743894,2
+3,Use existing trail/PBL,,0.476553459,2
+7,Connection via existing trail/PBL,,0.613383493,7
+7,Connection via existing trail/PBL,,0.23826887,2
+7,Connection via existing trail/PBL,,0.109158488,2
+7,Convert parking lane,,2.063021256,31
+7,Convert parking lane,,1.392143018,52
+7,Convert to local access only,,2.15934296,91
+7,Convert to local access only,,1.099426948,40
+7,Convert to local access only,,0.9690232,28
+7,Convert to local access only,,0.737236815,32
+7,Convert to local access only,,0.722071763,28
+7,Convert to local access only,,0.589467356,38
+7,Convert to local access only,,0.492179405,32
+7,Convert to local access only,,0.373889707,26
+7,Convert to local access only,,0.053768382,2
+7,Convert to local access only,,0.052992935,2
+7,Convert travel lane,,2.079709224,72
+7,Convert travel lane,,1.399700329,48
+7,Convert travel lane,,0.544565392,21
+7,Convert travel lane,,0.307563697,2
+7,Convert travel lane,,0.22655202,2
+456,Close to vehicle traffic,,0.53556151,8
+456,Close to vehicle traffic,,0.467405098,2
+456,Close to vehicle traffic,,0.429889546,2
+456,Close to vehicle traffic,Woodland Park access via underpass:<br>Important access to large parking lot where kids could ride bikes if parking lot was closed  to traffic at N 59th. Zoo parking lot is closed and un-necessarily being used as a cut-through route to Ballard.,0.253992087,2
+456,Connection via existing trail/PBL,,0.899314639,50
+456,Convert parking lane,,2.265513074,60
+456,Convert parking lane,,1.062482926,7
+456,Convert parking lane,,0.444452943,30
+456,Convert to local access only,127th Connector: Connector to other route to form loop walk,0.293085678,11
+456,Convert to local access only,1st Ave NW Greenway Connector: 1st Ave NW offers walking connections to Phinney business district and connects to existing 1st Ave NW Greenway to access Greenwood business district.,0.369123533,10
+456,Convert to local access only,1st Ave NW Pleasant Walking Route,0.309698953,2
+456,Convert to local access only,1st Ave NW Pleasant Walking route<br>2nd Ave extension to 1st Ave NW due to grade increase on 1st Ave NW,0.247335324,9
+456,Convert to local access only,4th Ave NW Walking route: Used by people walking and exercising. Traffic cuts-through to avoid Greenwood Ave N,0.865630139,16
+456,Convert to local access only,Bus access for Compass Housing and to Greenwood School and Bitter Lake Playfield,0.240070827,2
+456,Convert to local access only,Corliss Walking Route,0.745843738,20
+456,Convert to local access only,Disrupt cut-through traffic in favor of walking and biking.,0.61694109,21
+456,Convert to local access only,N 127th connector,0.171105631,10
+456,Convert to local access only,Neighborhood walking route with Olympic views,0.630331158,14
+456,Convert to local access only,,3.389664379,111
+456,Convert to local access only,,2.426763444,70
+456,Convert to local access only,,2.182832379,56
+456,Convert to local access only,,2.138272723,62
+456,Convert to local access only,,2.004614028,42
+456,Convert to local access only,,1.991949581,71
+456,Convert to local access only,,1.940381607,75
+456,Convert to local access only,,1.665466375,54
+456,Convert to local access only,,1.539914407,56
+456,Convert to local access only,,1.463459187,51
+456,Convert to local access only,,1.326156438,47
+456,Convert to local access only,,1.247130909,25
+456,Convert to local access only,,1.156410288,21
+456,Convert to local access only,,1.045794209,28
+456,Convert to local access only,,1.021201452,17
+456,Convert to local access only,,0.932941425,35
+456,Convert to local access only,,0.903948387,23
+456,Convert to local access only,,0.893873494,42
+456,Convert to local access only,,0.860319929,40
+456,Convert to local access only,,0.843071404,32
+456,Convert to local access only,,0.798709022,2
+456,Convert to local access only,,0.12804663,2
+456,Convert to local access only,,0.127015833,8
+456,Convert to local access only,Olympic Hills Greenway extension: Avoids creating access problems for people in the neighborhood at 25th where greenway is. Recommend excluding the northern portion of the Greenway on 25th for Safe & Healthy Street,0.243603193,9
+456,Convert to local access only,Olympic Hills Greenway: extension of Safe & Healthy street along 27th Ave NE for more direct access to heart of Lake City. Exclude portion of Greenway that jogs over to 25th Ave NE.,0.117655159,2
+456,Convert to local access only,"Phinney Ave N walking route: <br>Important due to proximity to Greenwood Ave N , widely used by people walking. Important to closed in tandem with Evanston Ave N to prevent increased traffic  on both streets avoiding Greenwood Ave.",0.316015433,13
+456,Convert to local access only,Phinney Bus Access & Walking route route:<br>Phinney Ave  is often used as a cut-through route to avoind Greenwood Ave and used to access bus stops on Greenwood Ave due to lack of sidewalks and right-of-way encroachment by parked cars along Greenwood Ave N.,0.757031604,18
+456,Convert to local access only,SDOT construction for NGW should start soon https://www.seattle.gov/transportation/projects-and-programs/programs/greenways-program/northgate,1.16850545,39
+456,Convert to local access only,Tangletown Traverse,1.05681764,33
+456,Convert to local access only,"Walking route to Peak Park: Greenwood Ave is narrow and has narrow sidewalks that make it difficult to distance oneself from others. People walk here because the gardens are beautiful , it is relatively flat, has stunning sunset views, accesses Woodland Park via underpass at Phinney Ave N, and traffic is light.",1.070145173,43
+456,Convert travel lane,Close westernmost lane to vehicle traffic.<br>Connect with the Ship Canal Trail and the Nickerson bike lane,0.725651905,37
+456,Convert travel lane,connect to Ship Canal Trail,0.347838454,13
+456,Convert travel lane,,0.396249898,12
