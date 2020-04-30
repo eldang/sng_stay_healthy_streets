@@ -104,7 +104,8 @@ district,name,description,route_length,n_intersections
 456,Close to vehicle traffic,,0.53556151,8
 456,Close to vehicle traffic,,0.467405098,2
 456,Close to vehicle traffic,,0.429889546,2
-456,Close to vehicle traffic,Woodland Park access via underpass:<br>Important access to large parking lot where kids could ride bikes if parking lot was closed  to traffic at N 59th. Zoo parking lot is closed and un-necessarily being used as a cut-through route to Ballard.,0.253992087,2
+456,Close to vehicle traffic,"Woodland Park access via underpass:
+Important access to large parking lot where kids could ride bikes if parking lot was closed  to traffic at N 59th. Zoo parking lot is closed and un-necessarily being used as a cut-through route to Ballard.",0.253992087,2
 456,Connection via existing trail/PBL,,0.899314639,50
 456,Convert parking lane,,2.265513074,60
 456,Convert parking lane,,1.062482926,7
@@ -134,21 +135,25 @@ district,name,description,route_length,n_intersections
 456,Convert to local access only,,0.860319929,40
 456,Convert to local access only,,0.843071404,32
 456,Convert to local access only,,0.798709022,2
-456,Convert to local access only,Phinney Bus Access & Walking route route:<br>Phinney Ave  is often used as a cut-through route to avoind Greenwood Ave and used to access bus stops on Greenwood Ave due to lack of sidewalks and right-of-way encroachment by parked cars along Greenwood Ave N.,0.757031604,18
+456,Convert to local access only,"Phinney Bus Access & Walking route route:
+Phinney Ave  is often used as a cut-through route to avoind Greenwood Ave and used to access bus stops on Greenwood Ave due to lack of sidewalks and right-of-way encroachment by parked cars along Greenwood Ave N.",0.757031604,18
 456,Convert to local access only,Corliss Walking Route,0.745843738,20
 456,Convert to local access only,Neighborhood walking route with Olympic views,0.630331158,14
 456,Convert to local access only,Disrupt cut-through traffic in favor of walking and biking.,0.61694109,21
 456,Convert to local access only,1st Ave NW Greenway Connector: 1st Ave NW offers walking connections to Phinney business district and connects to existing 1st Ave NW Greenway to access Greenwood business district.,0.369123533,10
-456,Convert to local access only,"Phinney Ave N walking route: <br>Important due to proximity to Greenwood Ave N , widely used by people walking. Important to closed in tandem with Evanston Ave N to prevent increased traffic  on both streets avoiding Greenwood Ave.",0.316015433,13
+456,Convert to local access only,"Phinney Ave N walking route: 
+Important due to proximity to Greenwood Ave N , widely used by people walking. Important to closed in tandem with Evanston Ave N to prevent increased traffic  on both streets avoiding Greenwood Ave.",0.316015433,13
 456,Convert to local access only,1st Ave NW Pleasant Walking Route,0.309698953,2
 456,Convert to local access only,127th Connector: Connector to other route to form loop walk,0.293085678,11
-456,Convert to local access only,1st Ave NW Pleasant Walking route<br>2nd Ave extension to 1st Ave NW due to grade increase on 1st Ave NW,0.247335324,9
+456,Convert to local access only,"1st Ave NW Pleasant Walking route
+2nd Ave extension to 1st Ave NW due to grade increase on 1st Ave NW",0.247335324,9
 456,Convert to local access only,Olympic Hills Greenway extension: Avoids creating access problems for people in the neighborhood at 25th where greenway is. Recommend excluding the northern portion of the Greenway on 25th for Safe & Healthy Street,0.243603193,9
 456,Convert to local access only,Bus access for Compass Housing and to Greenwood School and Bitter Lake Playfield,0.240070827,2
 456,Convert to local access only,N 127th connector,0.171105631,10
 456,Convert to local access only,,0.12804663,2
 456,Convert to local access only,,0.127015833,8
 456,Convert to local access only,Olympic Hills Greenway: extension of Safe & Healthy street along 27th Ave NE for more direct access to heart of Lake City. Exclude portion of Greenway that jogs over to 25th Ave NE.,0.117655159,2
-456,Convert travel lane,Close westernmost lane to vehicle traffic.<br>Connect with the Ship Canal Trail and the Nickerson bike lane,0.725651905,37
+456,Convert travel lane,"Close westernmost lane to vehicle traffic.
+Connect with the Ship Canal Trail and the Nickerson bike lane",0.725651905,37
 456,Convert travel lane,,0.396249898,12
 456,Convert travel lane,connect to Ship Canal Trail,0.347838454,13
